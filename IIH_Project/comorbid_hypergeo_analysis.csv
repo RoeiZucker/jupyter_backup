@@ -1,0 +1,1023 @@
+group,disease_name,p_value,disease_count
+IIH_both_sex,G93.2 Benign intracranial hypertension,0.0,105
+IIH_both_sex,I10 Essential (primary) hypertension,3.4467575401144335e-07,61
+IIH_both_sex,E78.0 Pure hypercholesterolaemia,0.00010086506252552431,32
+IIH_both_sex,Z86.7 Personal history of diseases of the circulatory system,1.882737959665085e-09,31
+IIH_both_sex,R51 Headache,5.172248381552226e-19,29
+IIH_both_sex,E11.9 Without complications,1.4906436715593578e-06,25
+IIH_both_sex,"E66.9 Obesity, unspecified",6.654280015018235e-07,24
+IIH_both_sex,Z86.4 Personal history of psychoactive substance abuse,0.06432243932767062,24
+IIH_both_sex,R69 Unknown and unspecified causes of morbidity,2.504910696931366e-06,22
+IIH_both_sex,K44.9 Diaphragmatic hernia without obstruction or gangrene,0.012895437853797289,21
+IIH_both_sex,"I20.9 Angina pectoris, unspecified",2.982077243443458e-05,19
+IIH_both_sex,"J45.9 Asthma, unspecified",0.012043100680093,19
+IIH_both_sex,"R07.4 Chest pain, unspecified",0.0009291965229372402,19
+IIH_both_sex,"F32.9 Depressive episode, unspecified",5.268127029061108e-05,19
+IIH_both_sex,K21.9 Gastro-oesophageal reflux disease without oesophagitis,0.002952777306657463,19
+IIH_both_sex,Z92.2 Personal history of long-term (current) use of other medicaments,0.014517008331328926,18
+IIH_both_sex,Z92.1 Personal history of long-term (current) use of anticoagulants,0.0013377713934365637,18
+IIH_both_sex,R10.4 Other and unspecified abdominal pain,0.00013496087073818015,18
+IIH_both_sex,Z82.4 Family history of ischaemic heart disease and other diseases of the circulatory system,0.00031259017672918024,16
+IIH_both_sex,Z86.6 Personal history of diseases of the nervous system and sense organs,3.059862384317627e-05,16
+IIH_both_sex,"H47.1 Papilloedema, unspecified",1.4709737689908224e-39,16
+IIH_both_sex,"M17.9 Gonarthrosis, unspecified",0.01601713857490944,15
+IIH_both_sex,Z72.0 Tobacco use,2.386694671660913e-06,15
+IIH_both_sex,Z53.8 Procedure not carried out for other reasons,0.0030060246583222855,15
+IIH_both_sex,"E03.9 Hypothyroidism, unspecified",0.0033198196189853945,15
+IIH_both_sex,Z98.2 Presence of cerebrospinal fluid drainage device,7.62389904164228e-29,15
+IIH_both_sex,F17.1 Harmful use,0.0015535508371781232,14
+IIH_both_sex,"N39.0 Urinary tract infection, site not specified",0.0073156263944277634,14
+IIH_both_sex,Z11.5 Special screening examination for other viral diseases,0.0005480102836021763,14
+IIH_both_sex,Z50.1 Other physical therapy,0.0006858051556596108,14
+IIH_both_sex,"I25.9 Chronic ischaemic heart disease, unspecified",0.01358696377399175,13
+IIH_both_sex,"N17.9 Acute renal failure, unspecified",0.0020453972194498238,13
+IIH_both_sex,"F41.9 Anxiety disorder, unspecified",0.0011973119373404682,12
+IIH_both_sex,I25.1 Atherosclerotic heart disease,0.13279090036066285,12
+IIH_both_sex,Z88.0 Personal history of allergy to penicillin,0.10294772004271205,12
+IIH_both_sex,Z88.6 Personal history of allergy to analgesic agent,1.8577986666687306e-05,12
+IIH_both_sex,I48 Atrial fibrillation and flutter,0.007805679343758805,12
+IIH_both_sex,"R41.0 Disorientation, unspecified",3.4421130406495605e-07,12
+IIH_both_sex,Z87.1 Personal history of diseases of the digestive system,0.18489034178676764,12
+IIH_both_sex,Z87.4 Personal history of diseases of the genito-urinary system,0.0007467404962776998,12
+IIH_both_sex,Z90.7 Acquired absence of genital organ(s),0.0010386663557041536,12
+IIH_both_sex,K59.0 Constipation,0.04175668179974591,12
+IIH_both_sex,"I48.9 Atrial fibrillation and atrial flutter,  unspecified",0.010034007193896743,12
+IIH_both_sex,"R29.6 Tendency to fall, not elsewhere classified",3.196749170018538e-05,12
+IIH_both_sex,Z88.1 Personal history of allergy to other antibiotic agents,4.672122090884724e-05,11
+IIH_both_sex,R07.3 Other chest pain,0.001559603628165767,11
+IIH_both_sex,A09.9 Gastroenteritis and colitis of unspecified origin,0.0052302310543665565,11
+IIH_both_sex,R55 Syncope and collapse,0.007582707599096536,11
+IIH_both_sex,R11 Nausea and vomiting,0.036502291274633225,11
+IIH_both_sex,"G43.9 Migraine, unspecified",4.3430242398834125e-07,11
+IIH_both_sex,"Z88.8 Personal history of allergy to other drugs, medicaments and biological substances",0.003983636112829742,11
+IIH_both_sex,Z96.6 Presence of orthopaedic joint implants,0.17105374177637894,10
+IIH_both_sex,R06.0 Dyspnoea,0.0030690496663218687,10
+IIH_both_sex,"G81.9 Hemiplegia, unspecified",7.138242304658076e-08,10
+IIH_both_sex,R53 Malaise and fatigue,3.719623782069479e-05,10
+IIH_both_sex,"K52.9 Non-infective gastro-enteritis and colitis, unspecified",0.052640774547184646,10
+IIH_both_sex,"D64.9 Anaemia, unspecified",0.11688629216364256,10
+IIH_both_sex,"T81.0 Haemorrhage and haematoma complicating a procedure, not elsewhere classified",0.00015800751807695858,10
+IIH_both_sex,K57.3 Diverticular disease of large intestine without perforation or abscess,0.8994329502906316,10
+IIH_both_sex,N40 Hyperplasia of prostate,0.18376699515531167,9
+IIH_both_sex,"G91.9 Hydrocephalus, unspecified",5.41253810954667e-13,9
+IIH_both_sex,J22 Unspecified acute lower respiratory infection,0.02324404824865369,9
+IIH_both_sex,R31 Unspecified haematuria,0.13354701172030187,9
+IIH_both_sex,K58.9 Irritable bowel syndrome without diarrhoea,0.0028352319254842315,9
+IIH_both_sex,Y83.1 Surgical operation with implant of artificial internal device,0.003256136142370722,9
+IIH_both_sex,"M19.9 Arthrosis, unspecified",0.15421092740886735,9
+IIH_both_sex,E87.6 Hypokalaemia,4.889207197543925e-05,9
+IIH_both_sex,"J44.9 Chronic obstructive pulmonary disease, unspecified",0.09832668996508818,8
+IIH_both_sex,Z90.4 Acquired absence of other parts of digestive tract,0.08464784086477142,8
+IIH_both_sex,T85.0 Mechanical complication of ventricular intracranial (communicating) shunt,1.3381291447727292e-19,8
+IIH_both_sex,"K29.7 Gastritis, unspecified",0.3430651796475183,8
+IIH_both_sex,Z51.5 Palliative care,0.013770264528719357,8
+IIH_both_sex,G47.3 Sleep apnoea,0.002540211343202118,8
+IIH_both_sex,R79.8 Other specified abnormal findings of blood chemistry,0.03157994798145524,8
+IIH_both_sex,"I95.9 Hypotension, unspecified",0.008936856593667978,8
+IIH_both_sex,"J18.1 Lobar pneumonia, unspecified",0.0583150980767233,8
+IIH_both_sex,N83.2 Other and unspecified ovarian cysts,8.640762293226651e-05,8
+IIH_both_sex,R32 Unspecified urinary incontinence,0.00028176464731225436,8
+IIH_both_sex,Z53.0 Procedure not carried out because of contraindication,0.037445513551626224,8
+IIH_both_sex,R56.8 Other and unspecified convulsions,1.389399053448085e-05,8
+IIH_both_sex,Z85.8 Personal history of malignant neoplasms of other organs and systems,0.04246744207983983,8
+IIH_both_sex,R10.3 Pain localised to other parts of lower abdomen,0.013437481157885985,8
+IIH_both_sex,"K57.9 Diverticular disease of intestine, part unspecified, without perforation or abscess",0.05082298908531349,8
+IIH_both_sex,G56.0 Carpal tunnel syndrome,0.03314723517186521,8
+IIH_both_sex,K63.5 Polyp of colon,0.5105223635448314,7
+IIH_both_sex,Z03.8 Observation for other suspected diseases and conditions,0.05211636069759579,7
+IIH_both_sex,Z12.1 Special screening examination for neoplasm of intestinal tract,0.06643776289292497,7
+IIH_both_sex,Z96.8 Presence of other specified functional implants,2.1061125439694507e-06,7
+IIH_both_sex,Z95.5 Presence of coronary angioplasty implant and graft,0.041603165853481436,7
+IIH_both_sex,B96.8 Other specified bacterial agents as the cause of diseases classified to other chapters,0.0035026645320376678,7
+IIH_both_sex,K30 Dyspepsia,0.12020139131251685,7
+IIH_both_sex,I26.9 Pulmonary embolism without mention of acute cor pulmonale,0.005485104843136916,7
+IIH_both_sex,"H26.9 Cataract, unspecified",0.694464831368345,7
+IIH_both_sex,K20 Oesophagitis,0.09165050190151532,7
+IIH_both_sex,"Z92.4 Personal history of major surgery, not elsewhere classified",6.8536871667552395e-06,7
+IIH_both_sex,K62.5 Haemorrhage of anus and rectum,0.16113056002478124,7
+IIH_both_sex,"G40.9 Epilepsy, unspecified",0.0007563268064969796,7
+IIH_both_sex,"L98.9 Disorder of skin and subcutaneous tissue, unspecified",0.006883294553752693,7
+IIH_both_sex,Y83.6 Removal of other organ (partial) (total),0.007760748556840277,7
+IIH_both_sex,S06.50 Traumatic subdural haemorrhage (without open intracranial wound),2.001924024640392e-08,7
+IIH_both_sex,N92.0 Excessive and frequent menstruation with regular cycle,0.015526191586574985,7
+IIH_both_sex,R26.8 Other and unspecified abnormalities of gait and mobility,0.008621099195491247,7
+IIH_both_sex,Z37.0 Single live birth,0.03708633036437875,7
+IIH_both_sex,"Z91.0 Personal history of allergy, other than to drugs and biological substances",0.021012235969674452,7
+IIH_both_sex,I84.9 Unspecified haemorrhoids without complication,0.11496285627948652,7
+IIH_both_sex,"D50.9 Iron deficiency anaemia, unspecified",0.08898105487517431,7
+IIH_both_sex,"A41.9 Septicaemia, unspecified",0.06977557835292178,6
+IIH_both_sex,I51.7 Cardiomegaly,0.02671543273756784,6
+IIH_both_sex,I20.0 Unstable angina,0.011869368187771475,6
+IIH_both_sex,Z95.8 Presence of other cardiac and vascular implants and grafts,0.0015797841655109497,6
+IIH_both_sex,"M13.9 Arthritis, unspecified",0.19746297798111553,6
+IIH_both_sex,R10.1 Pain localised to upper abdomen,0.2907890695951087,6
+IIH_both_sex,N20.0 Calculus of kidney,0.003995640705514867,6
+IIH_both_sex,"R00.1 Bradycardia, unspecified",0.009493167293626145,6
+IIH_both_sex,"L30.9 Dermatitis, unspecified",0.0006631744607583417,6
+IIH_both_sex,R29.8 Other and unspecified symptoms and signs involving the nervous and musculoskeletal systems,0.0006679216046942115,6
+IIH_both_sex,"Z50.7 Occupational therapy and vocational rehabilitation, not elsewhere classified",0.06679864059140757,6
+IIH_both_sex,K21.0 Gastro-oesophageal reflux disease with oesophagitis,0.32573925393058534,6
+IIH_both_sex,Z51.2 Other chemotherapy,0.13533906241984653,6
+IIH_both_sex,K80.2 Calculus of gallbladder without cholecystitis,0.1807813124472415,6
+IIH_both_sex,"M19.99 Arthrosis, unspecified (Site unspecified)",0.018784676783031102,6
+IIH_both_sex,M54.5 Low back pain,0.011716630854048192,6
+IIH_both_sex,B96.2 Escherichia coli [E. coli] as the cause of diseases classified to other chapters,0.011286502510860757,6
+IIH_both_sex,"M16.9 Coxarthrosis, unspecified",0.3772853444460712,6
+IIH_both_sex,D32.0 Cerebral meninges,6.569987081154489e-08,6
+IIH_both_sex,Y83.8 Other surgical procedures,0.025953736250700472,6
+IIH_both_sex,"M13.99 Arthritis, unspecified (Site unspecified)",0.021548955384176022,5
+IIH_both_sex,"M15.9 Polyarthrosis, unspecified",0.11408376822418045,5
+IIH_both_sex,F10.1 Harmful use,0.021326800797642213,5
+IIH_both_sex,"I50.9 Heart failure, unspecified",0.0212714972925937,5
+IIH_both_sex,I50.1 Left ventricular failure,0.06737576627732837,5
+IIH_both_sex,"N18.9 Chronic renal failure, unspecified",0.08714294345892193,5
+IIH_both_sex,Y95 Nosocomial condition,0.01494769689873641,5
+IIH_both_sex,I25.2 Old myocardial infarction,0.46624225847267486,5
+IIH_both_sex,N81.1 Cystocele,0.03724352854690938,5
+IIH_both_sex,G55.1 Nerve root and plexus compressions in intervertebral disk disorders,0.031160669137584942,5
+IIH_both_sex,Z09.0 Follow-up examination after surgery for other conditions,0.06797584793470787,5
+IIH_both_sex,M79.7 Fibromyalgia,0.0006528525029791976,5
+IIH_both_sex,I34.0 Mitral (valve) insufficiency,0.0176793086376373,5
+IIH_both_sex,I95.1 Orthostatic hypotension,0.014146419229713074,5
+IIH_both_sex,M79.86 Other specified soft tissue disorders (Lower leg),0.02599715224958441,5
+IIH_both_sex,G93.6 Cerebral oedema,2.5189216601420414e-07,5
+IIH_both_sex,R42 Dizziness and giddiness,0.1402271270296405,5
+IIH_both_sex,"M81.99 Osteoporosis, unspecified (Site unspecified)",0.015211588438460778,5
+IIH_both_sex,M51.3 Other specified intervertebral disk degeneration,0.013012912047843026,5
+IIH_both_sex,"K02.9 Dental caries, unspecified",0.009624399312040711,5
+IIH_both_sex,Z87.8 Personal history of other specified conditions,0.0007432324628800784,5
+IIH_both_sex,R94.5 Abnormal results of liver function studies,0.07489288377400753,5
+IIH_both_sex,"I63.9 Cerebral infarction, unspecified",0.014006450248402698,5
+IIH_both_sex,S02.10 Fracture of base of skull (closed),5.279956297845404e-07,5
+IIH_both_sex,R35 Polyuria,0.01686073996018854,5
+IIH_female,G93.2 Benign intracranial hypertension,2.136707525156076e-254,67
+IIH_female,I10 Essential (primary) hypertension,5.0117261946816617e-08,41
+IIH_female,E78.0 Pure hypercholesterolaemia,6.223759362457401e-05,20
+IIH_female,R51 Headache,3.023849532862044e-13,20
+IIH_female,Z86.7 Personal history of diseases of the circulatory system,6.03179392032115e-08,20
+IIH_female,K21.9 Gastro-oesophageal reflux disease without oesophagitis,4.89120157597856e-05,18
+IIH_female,K44.9 Diaphragmatic hernia without obstruction or gangrene,0.0012042549294332297,18
+IIH_female,E11.9 Without complications,3.9321926049216806e-07,17
+IIH_female,R10.4 Other and unspecified abdominal pain,3.113658807291482e-05,16
+IIH_female,Z86.4 Personal history of psychoactive substance abuse,0.021960496583161147,15
+IIH_female,"E66.9 Obesity, unspecified",7.295763427878905e-05,15
+IIH_female,"M17.9 Gonarthrosis, unspecified",0.0003858641416626,14
+IIH_female,"E03.9 Hypothyroidism, unspecified",0.010457810364598096,13
+IIH_female,"R07.4 Chest pain, unspecified",0.0014591645550724552,13
+IIH_female,"H47.1 Papilloedema, unspecified",1.1079875271986168e-33,13
+IIH_female,"I20.9 Angina pectoris, unspecified",1.6373664255059327e-05,12
+IIH_female,"J45.9 Asthma, unspecified",0.07810876999537054,12
+IIH_female,Z88.6 Personal history of allergy to analgesic agent,1.6290767888198805e-06,12
+IIH_female,R69 Unknown and unspecified causes of morbidity,0.00541460729880651,11
+IIH_female,Z82.4 Family history of ischaemic heart disease and other diseases of the circulatory system,0.00021519982367347137,11
+IIH_female,Z88.0 Personal history of allergy to penicillin,0.03754711853358427,11
+IIH_female,"F41.9 Anxiety disorder, unspecified",0.0018036123535396156,10
+IIH_female,Z88.1 Personal history of allergy to other antibiotic agents,8.94494950011514e-05,10
+IIH_female,Z72.0 Tobacco use,9.72649185332663e-06,10
+IIH_female,Z86.6 Personal history of diseases of the nervous system and sense organs,0.0004465132922116337,10
+IIH_female,"F32.9 Depressive episode, unspecified",0.03260301510331334,10
+IIH_female,Z87.4 Personal history of diseases of the genito-urinary system,0.0003795693941834475,10
+IIH_female,Z90.7 Acquired absence of genital organ(s),0.006874343609743212,10
+IIH_female,"G43.9 Migraine, unspecified",1.0119873967668804e-06,10
+IIH_female,Z53.8 Procedure not carried out for other reasons,0.005813658471581706,10
+IIH_female,"N39.0 Urinary tract infection, site not specified",0.010491904071707477,10
+IIH_female,"N17.9 Acute renal failure, unspecified",0.00011470216994180844,10
+IIH_female,Z50.1 Other physical therapy,0.0011758918999548852,10
+IIH_female,Z92.2 Personal history of long-term (current) use of other medicaments,0.05838644004029362,9
+IIH_female,Z96.6 Presence of orthopaedic joint implants,0.04248793831176246,9
+IIH_female,F17.1 Harmful use,0.003342687181673227,9
+IIH_female,A09.9 Gastroenteritis and colitis of unspecified origin,0.0028612708070539865,9
+IIH_female,"M19.9 Arthrosis, unspecified",0.03284615164657305,9
+IIH_female,N83.2 Other and unspecified ovarian cysts,0.00024135493456584493,8
+IIH_female,"I48.9 Atrial fibrillation and atrial flutter,  unspecified",0.0027379177205145034,8
+IIH_female,"K52.9 Non-infective gastro-enteritis and colitis, unspecified",0.04299638567756017,8
+IIH_female,Z92.1 Personal history of long-term (current) use of anticoagulants,0.028838678495390346,8
+IIH_female,Z98.2 Presence of cerebrospinal fluid drainage device,2.346387045258154e-15,8
+IIH_female,K57.3 Diverticular disease of large intestine without perforation or abscess,0.634134973602644,8
+IIH_female,"K57.9 Diverticular disease of intestine, part unspecified, without perforation or abscess",0.005497419772424062,8
+IIH_female,"Z88.8 Personal history of allergy to other drugs, medicaments and biological substances",0.015523371038587508,8
+IIH_female,K30 Dyspepsia,0.032938139678127865,7
+IIH_female,R06.0 Dyspnoea,0.006646898978472045,7
+IIH_female,R07.3 Other chest pain,0.008598231735177667,7
+IIH_female,N92.0 Excessive and frequent menstruation with regular cycle,0.033022978720405695,7
+IIH_female,Z37.0 Single live birth,0.07430547192315487,7
+IIH_female,R10.3 Pain localised to other parts of lower abdomen,0.010260552551676379,7
+IIH_female,K59.0 Constipation,0.16275417376504442,7
+IIH_female,Z11.5 Special screening examination for other viral diseases,0.02711828006433219,7
+IIH_female,"D64.9 Anaemia, unspecified",0.12133811306845733,7
+IIH_female,Z87.1 Personal history of diseases of the digestive system,0.2261046276836497,7
+IIH_female,R55 Syncope and collapse,0.012745779178025734,7
+IIH_female,I25.1 Atherosclerotic heart disease,0.04754521026285596,6
+IIH_female,"I25.9 Chronic ischaemic heart disease, unspecified",0.03379433855479279,6
+IIH_female,J22 Unspecified acute lower respiratory infection,0.02878166567827179,6
+IIH_female,"K29.7 Gastritis, unspecified",0.28487948717953815,6
+IIH_female,R10.1 Pain localised to upper abdomen,0.1160476938671688,6
+IIH_female,K20 Oesophagitis,0.022457771185579376,6
+IIH_female,I48 Atrial fibrillation and flutter,0.01767279372189187,6
+IIH_female,"R41.0 Disorientation, unspecified",0.0003225558457067246,6
+IIH_female,Z53.0 Procedure not carried out because of contraindication,0.024668427192341406,6
+IIH_female,R31 Unspecified haematuria,0.057775831193496684,6
+IIH_female,"M19.99 Arthrosis, unspecified (Site unspecified)",0.004800387763711077,6
+IIH_female,K58.9 Irritable bowel syndrome without diarrhoea,0.04480123779380416,6
+IIH_female,Z90.4 Acquired absence of other parts of digestive tract,0.08398787852095502,6
+IIH_female,R11 Nausea and vomiting,0.2862157502969071,6
+IIH_female,"R29.6 Tendency to fall, not elsewhere classified",0.006449828454711061,6
+IIH_female,"T81.0 Haemorrhage and haematoma complicating a procedure, not elsewhere classified",0.0033023463717690446,6
+IIH_female,Y83.1 Surgical operation with implant of artificial internal device,0.009091480857876097,6
+IIH_female,B96.2 Escherichia coli [E. coli] as the cause of diseases classified to other chapters,0.0019053348216621403,6
+IIH_female,"H26.9 Cataract, unspecified",0.4506025250417992,6
+IIH_female,G56.0 Carpal tunnel syndrome,0.0752710104752539,6
+IIH_female,E87.6 Hypokalaemia,0.0008936276157692401,6
+IIH_female,"G91.9 Hydrocephalus, unspecified",1.6161386235862105e-07,5
+IIH_female,"J44.9 Chronic obstructive pulmonary disease, unspecified",0.10617199067409584,5
+IIH_female,T85.0 Mechanical complication of ventricular intracranial (communicating) shunt,7.784868003678832e-13,5
+IIH_female,Z95.8 Presence of other cardiac and vascular implants and grafts,7.86067847677467e-05,5
+IIH_female,B96.8 Other specified bacterial agents as the cause of diseases classified to other chapters,0.005184015749172744,5
+IIH_female,"M13.9 Arthritis, unspecified",0.16681044683611013,5
+IIH_female,Z51.5 Palliative care,0.027845067914674795,5
+IIH_female,N81.1 Cystocele,0.06550767138665536,5
+IIH_female,R32 Unspecified urinary incontinence,0.006147387314828222,5
+IIH_female,K62.5 Haemorrhage of anus and rectum,0.1569725849793486,5
+IIH_female,M79.7 Fibromyalgia,0.000766384524502307,5
+IIH_female,I26.9 Pulmonary embolism without mention of acute cor pulmonale,0.0061195552445701676,5
+IIH_female,K80.2 Calculus of gallbladder without cholecystitis,0.17490021255098304,5
+IIH_female,R79.8 Other specified abnormal findings of blood chemistry,0.006411478442447431,5
+IIH_female,I84.9 Unspecified haemorrhoids without complication,0.09410550088849526,5
+IIH_female,Y83.6 Removal of other organ (partial) (total),0.014866210251810796,5
+IIH_female,Z96.8 Presence of other specified functional implants,2.1962515634849974e-05,5
+IIH_female,"I95.9 Hypotension, unspecified",0.021962598483786604,5
+IIH_female,R53 Malaise and fatigue,0.008166100102750751,5
+IIH_female,R56.8 Other and unspecified convulsions,0.00026141890368336764,5
+IIH_female,"D50.9 Iron deficiency anaemia, unspecified",0.11855605685105525,5
+IIH_female,Z51.2 Other chemotherapy,0.1120178508395517,5
+IIH_female,"G81.9 Hemiplegia, unspecified",0.00013780696843513146,5
+IIH_male,G93.2 Benign intracranial hypertension,7.001352518945341e-151,38
+IIH_male,I10 Essential (primary) hypertension,0.07042483602015286,20
+IIH_male,E78.0 Pure hypercholesterolaemia,0.0645671965501944,12
+IIH_male,R69 Unknown and unspecified causes of morbidity,4.0291094133195045e-05,11
+IIH_male,Z86.7 Personal history of diseases of the circulatory system,0.0016846053961476432,11
+IIH_male,Z92.1 Personal history of long-term (current) use of anticoagulants,0.005390276763095102,10
+IIH_male,N40 Hyperplasia of prostate,0.053511200311175566,9
+IIH_male,"E66.9 Obesity, unspecified",0.0020000800685229395,9
+IIH_male,R51 Headache,6.971075016294883e-07,9
+IIH_male,Z92.2 Personal history of long-term (current) use of other medicaments,0.046595488201585294,9
+IIH_male,"F32.9 Depressive episode, unspecified",0.00011946928009761007,9
+IIH_male,Z86.4 Personal history of psychoactive substance abuse,0.41623659041626077,9
+IIH_male,E11.9 Without complications,0.05312678626914653,8
+IIH_male,"I25.9 Chronic ischaemic heart disease, unspecified",0.058260548017627256,7
+IIH_male,"J45.9 Asthma, unspecified",0.055843099367460375,7
+IIH_male,"I20.9 Angina pectoris, unspecified",0.04810430618936101,7
+IIH_male,Z11.5 Special screening examination for other viral diseases,0.003713924993280037,7
+IIH_male,Z98.2 Presence of cerebrospinal fluid drainage device,4.962913376537945e-15,7
+IIH_male,I25.1 Atherosclerotic heart disease,0.35512029100018166,6
+IIH_male,I48 Atrial fibrillation and flutter,0.06306210361235906,6
+IIH_male,"R07.4 Chest pain, unspecified",0.12297104464293895,6
+IIH_male,"R41.0 Disorientation, unspecified",0.0001640558727093256,6
+IIH_male,Z86.6 Personal history of diseases of the nervous system and sense organs,0.013739754204960975,6
+IIH_male,"R29.6 Tendency to fall, not elsewhere classified",0.0009141960983088836,6
+IIH_male,K63.5 Polyp of colon,0.17736040544358833,5
+IIH_male,Z82.4 Family history of ischaemic heart disease and other diseases of the circulatory system,0.12770713213315021,5
+IIH_male,Z87.1 Personal history of diseases of the digestive system,0.320057381415712,5
+IIH_male,F17.1 Harmful use,0.09116536355254251,5
+IIH_male,"G81.9 Hemiplegia, unspecified",8.766406389774149e-05,5
+IIH_male,R53 Malaise and fatigue,0.0009188430779864063,5
+IIH_male,Z53.8 Procedure not carried out for other reasons,0.12712681368805057,5
+IIH_male,Z72.0 Tobacco use,0.020641974244975655,5
+IIH_male,K59.0 Constipation,0.08946286448284485,5
+IIH_male,"L98.9 Disorder of skin and subcutaneous tissue, unspecified",0.0014922296641156586,5
+IIH_male,R11 Nausea and vomiting,0.027883281543428177,5
+IIH_male,Z85.8 Personal history of malignant neoplasms of other organs and systems,0.02234920807010509,5
+pap_both_sex,"H47.1 Papilloedema, unspecified",0.0,84
+pap_both_sex,I10 Essential (primary) hypertension,4.030740758463256e-06,49
+pap_both_sex,R51 Headache,1.8586264228001747e-17,25
+pap_both_sex,Z86.4 Personal history of psychoactive substance abuse,0.002148990047129627,25
+pap_both_sex,E78.0 Pure hypercholesterolaemia,0.017479383049650306,21
+pap_both_sex,"F32.9 Depressive episode, unspecified",8.544202983263e-08,21
+pap_both_sex,K44.9 Diaphragmatic hernia without obstruction or gangrene,0.0007866805596566267,21
+pap_both_sex,Z92.1 Personal history of long-term (current) use of anticoagulants,7.732131665579416e-05,18
+pap_both_sex,"N17.9 Acute renal failure, unspecified",1.239416872234141e-07,18
+pap_both_sex,Z86.7 Personal history of diseases of the circulatory system,0.0004317780611359275,18
+pap_both_sex,G93.2 Benign intracranial hypertension,1.4709737686135032e-39,16
+pap_both_sex,"N39.0 Urinary tract infection, site not specified",0.0002751164107087486,15
+pap_both_sex,Z86.6 Personal history of diseases of the nervous system and sense organs,7.621962162835354e-06,15
+pap_both_sex,Z53.8 Procedure not carried out for other reasons,0.0009172211040100774,14
+pap_both_sex,"E66.9 Obesity, unspecified",0.0036101637095032136,14
+pap_both_sex,F17.1 Harmful use,0.00015457419082015185,14
+pap_both_sex,"R07.4 Chest pain, unspecified",0.008695412893261704,14
+pap_both_sex,"E03.9 Hypothyroidism, unspecified",0.001015574935263898,14
+pap_both_sex,K59.0 Constipation,0.003115721526214683,13
+pap_both_sex,Z87.1 Personal history of diseases of the digestive system,0.025724040901474204,13
+pap_both_sex,A09.9 Gastroenteritis and colitis of unspecified origin,5.5259513925181566e-05,13
+pap_both_sex,"I48.9 Atrial fibrillation and atrial flutter,  unspecified",0.001611673270615718,12
+pap_both_sex,R10.4 Other and unspecified abdominal pain,0.007749078272162287,12
+pap_both_sex,E11.9 Without complications,0.04750326791193306,12
+pap_both_sex,R11 Nausea and vomiting,0.0027873180997120437,12
+pap_both_sex,H53.8 Other visual disturbances,5.4966115756151385e-14,11
+pap_both_sex,K21.9 Gastro-oesophageal reflux disease without oesophagitis,0.14234688305818186,11
+pap_both_sex,"K52.9 Non-infective gastro-enteritis and colitis, unspecified",0.0048547147338882345,11
+pap_both_sex,"M17.9 Gonarthrosis, unspecified",0.060885205559870086,11
+pap_both_sex,Z11.5 Special screening examination for other viral diseases,0.0023944322902888604,11
+pap_both_sex,"N18.9 Chronic renal failure, unspecified",2.869919737981324e-06,11
+pap_both_sex,R79.8 Other specified abnormal findings of blood chemistry,0.00017081961000173722,11
+pap_both_sex,Z98.2 Presence of cerebrospinal fluid drainage device,4.686249194289047e-21,11
+pap_both_sex,Z87.4 Personal history of diseases of the genito-urinary system,0.0003830753008868253,11
+pap_both_sex,"K29.7 Gastritis, unspecified",0.03851946139396375,10
+pap_both_sex,R69 Unknown and unspecified causes of morbidity,0.06373406060485785,10
+pap_both_sex,Z92.6 Personal history of chemotherapy for neoplastic disease,0.00011292620447776737,10
+pap_both_sex,R42 Dizziness and giddiness,6.874626424473275e-05,10
+pap_both_sex,Z88.1 Personal history of allergy to other antibiotic agents,3.4012973016789745e-05,10
+pap_both_sex,I48 Atrial fibrillation and flutter,0.028621148415705292,9
+pap_both_sex,"I95.9 Hypotension, unspecified",0.0005392511848050981,9
+pap_both_sex,"J18.1 Lobar pneumonia, unspecified",0.006201920157483453,9
+pap_both_sex,"F41.9 Anxiety disorder, unspecified",0.007196820771346781,9
+pap_both_sex,K57.3 Diverticular disease of large intestine without perforation or abscess,0.793221403695535,9
+pap_both_sex,"K57.9 Diverticular disease of intestine, part unspecified, without perforation or abscess",0.005151428251648197,9
+pap_both_sex,R07.3 Other chest pain,0.0034671553519479096,9
+pap_both_sex,"R29.6 Tendency to fall, not elsewhere classified",0.0004924882816780198,9
+pap_both_sex,R63.4 Abnormal weight loss,0.0017992991515943478,9
+pap_both_sex,Z92.2 Personal history of long-term (current) use of other medicaments,0.4516273870591422,9
+pap_both_sex,Z92.3 Personal history of irradiation,0.0004074393423127068,9
+pap_both_sex,"T81.0 Haemorrhage and haematoma complicating a procedure, not elsewhere classified",0.00013561294397746126,9
+pap_both_sex,"H26.9 Cataract, unspecified",0.3072456517686683,8
+pap_both_sex,"J44.9 Chronic obstructive pulmonary disease, unspecified",0.034183478234747926,8
+pap_both_sex,"J45.9 Asthma, unspecified",0.6598565410110574,8
+pap_both_sex,"R41.0 Disorientation, unspecified",0.00011518924448481795,8
+pap_both_sex,R55 Syncope and collapse,0.03479241522688092,8
+pap_both_sex,I25.1 Atherosclerotic heart disease,0.3562494193889047,8
+pap_both_sex,"Z88.8 Personal history of allergy to other drugs, medicaments and biological substances",0.022111423202696923,8
+pap_both_sex,Y83.6 Removal of other organ (partial) (total),0.00046639514672481804,8
+pap_both_sex,"G91.9 Hydrocephalus, unspecified",4.5160975958421915e-12,8
+pap_both_sex,"D50.9 Iron deficiency anaemia, unspecified",0.011515662478103844,8
+pap_both_sex,R13 Dysphagia,0.028632033581207306,7
+pap_both_sex,Z96.6 Presence of orthopaedic joint implants,0.33849546082692783,7
+pap_both_sex,Z72.0 Tobacco use,0.022730773893554906,7
+pap_both_sex,Z90.7 Acquired absence of genital organ(s),0.05146848836076287,7
+pap_both_sex,"G43.9 Migraine, unspecified",0.00023413452549400686,7
+pap_both_sex,K63.5 Polyp of colon,0.29049732201133793,7
+pap_both_sex,R19.4 Change in bowel habit,0.13948437964132795,7
+pap_both_sex,Z90.4 Acquired absence of other parts of digestive tract,0.07098407885584777,7
+pap_both_sex,Z88.0 Personal history of allergy to penicillin,0.45958052609974,7
+pap_both_sex,R32 Unspecified urinary incontinence,0.0003895154277113961,7
+pap_both_sex,I51.7 Cardiomegaly,0.002323595901077941,7
+pap_both_sex,I83.9 Varicose veins of lower extremities without ulcer or inflammation,0.0764499900546295,6
+pap_both_sex,"I20.9 Angina pectoris, unspecified",0.4384263312124083,6
+pap_both_sex,"I25.9 Chronic ischaemic heart disease, unspecified",0.4253072309118863,6
+pap_both_sex,R33 Retention of urine,0.16907224628323334,6
+pap_both_sex,H25.1 Senile nuclear cataract,0.15638479298119876,6
+pap_both_sex,R07.2 Precordial pain,0.0054852565487187605,6
+pap_both_sex,Z96.1 Presence of intraocular lens,0.14434137670443387,6
+pap_both_sex,N40 Hyperplasia of prostate,0.397058832934986,6
+pap_both_sex,I50.0 Congestive heart failure,0.002945874278209576,6
+pap_both_sex,"M19.9 Arthrosis, unspecified",0.35841811766162884,6
+pap_both_sex,K58.9 Irritable bowel syndrome without diarrhoea,0.030715140418906797,6
+pap_both_sex,"A41.9 Septicaemia, unspecified",0.028272477901453475,6
+pap_both_sex,R15 Faecal incontinence,0.00035409995791507677,6
+pap_both_sex,"E78.5 Hyperlipidaemia, unspecified",0.028257631396921893,6
+pap_both_sex,N32.8 Other specified disorders of bladder,0.03519648349224279,6
+pap_both_sex,R31 Unspecified haematuria,0.3293574061583292,6
+pap_both_sex,Z86.0 Personal history of other neoplasms,0.0313150596601443,6
+pap_both_sex,K20 Oesophagitis,0.08828118337025627,6
+pap_both_sex,R10.3 Pain localised to other parts of lower abdomen,0.039636604993389626,6
+pap_both_sex,N92.0 Excessive and frequent menstruation with regular cycle,0.017851251351058427,6
+pap_both_sex,R53 Malaise and fatigue,0.023099141026609444,5
+pap_both_sex,Z03.8 Observation for other suspected diseases and conditions,0.1322455706986564,5
+pap_both_sex,"K40.9 Unilateral or unspecified inguinal hernia, without obstruction or gangrene",0.5140039838816364,5
+pap_both_sex,"M16.9 Coxarthrosis, unspecified",0.3651395619708819,5
+pap_both_sex,I25.8 Other forms of chronic ischaemic heart disease,0.0305304296786583,5
+pap_both_sex,I26.9 Pulmonary embolism without mention of acute cor pulmonale,0.02757877824565116,5
+pap_both_sex,I50.1 Left ventricular failure,0.030437606955998776,5
+pap_both_sex,J44.0 Chronic obstructive pulmonary disease with acute lower respiratory infection,0.011916552132448972,5
+pap_both_sex,"M19.99 Arthrosis, unspecified (Site unspecified)",0.026376820379054398,5
+pap_both_sex,I67.8 Other specified cerebrovascular diseases,0.0027235700242054417,5
+pap_both_sex,I84.9 Unspecified haemorrhoids without complication,0.22813262203783816,5
+pap_both_sex,"K92.2 Gastro-intestinal haemorrhage, unspecified",0.1378641320064567,5
+pap_both_sex,Z53.0 Procedure not carried out because of contraindication,0.18935732317773848,5
+pap_both_sex,G55.1 Nerve root and plexus compressions in intervertebral disk disorders,0.013188334706376884,5
+pap_both_sex,"M54.9 Dorsalgia, unspecified",0.017367263780714542,5
+pap_both_sex,Z82.4 Family history of ischaemic heart disease and other diseases of the circulatory system,0.5286641277686753,5
+pap_both_sex,"M81.9 Osteoporosis, unspecified",0.10901030794429747,5
+pap_both_sex,Z50.1 Other physical therapy,0.4022869388410146,5
+pap_both_sex,J98.1 Pulmonary collapse,0.02319246089284934,5
+pap_both_sex,Y83.1 Surgical operation with implant of artificial internal device,0.0931870371335325,5
+pap_both_sex,"I63.9 Cerebral infarction, unspecified",0.005629556999790096,5
+pap_both_sex,"N18.3 Chronic kidney disease, stage 3",0.07895096672448647,5
+pap_both_sex,K29.8 Duodenitis,0.12395957568227921,5
+pap_both_sex,R10.1 Pain localised to upper abdomen,0.2879310995158065,5
+pap_both_sex,J22 Unspecified acute lower respiratory infection,0.23713486733101868,5
+pap_female,"H47.1 Papilloedema, unspecified",1.2752811696462101e-192,49
+pap_female,I10 Essential (primary) hypertension,0.0010337235565759833,25
+pap_female,G93.2 Benign intracranial hypertension,1.1079875267917284e-33,13
+pap_female,Z86.4 Personal history of psychoactive substance abuse,0.0078162096455548,13
+pap_female,"F32.9 Depressive episode, unspecified",0.0002786341580944893,12
+pap_female,R51 Headache,1.902918812287564e-07,12
+pap_female,"E03.9 Hypothyroidism, unspecified",0.005891683695605273,11
+pap_female,K44.9 Diaphragmatic hernia without obstruction or gangrene,0.037592371467071437,11
+pap_female,R10.4 Other and unspecified abdominal pain,0.003281682524903976,10
+pap_female,E78.0 Pure hypercholesterolaemia,0.05789050418115558,10
+pap_female,"M17.9 Gonarthrosis, unspecified",0.009860454476822243,9
+pap_female,Z86.7 Personal history of diseases of the circulatory system,0.010095969912814013,9
+pap_female,"N17.9 Acute renal failure, unspecified",4.724815954838144e-05,9
+pap_female,F17.1 Harmful use,0.00158727698288583,8
+pap_female,"N39.0 Urinary tract infection, site not specified",0.012540394285719295,8
+pap_female,Z88.1 Personal history of allergy to other antibiotic agents,0.00023733820480695872,8
+pap_female,"E66.9 Obesity, unspecified",0.06186325167751715,7
+pap_female,K57.3 Diverticular disease of large intestine without perforation or abscess,0.43645225023095885,7
+pap_female,"K57.9 Diverticular disease of intestine, part unspecified, without perforation or abscess",0.0033761550659706418,7
+pap_female,Z90.7 Acquired absence of genital organ(s),0.027381420569757613,7
+pap_female,"G43.9 Migraine, unspecified",5.741483010974232e-05,7
+pap_female,K59.0 Constipation,0.04445742372935653,7
+pap_female,"R07.4 Chest pain, unspecified",0.07624255820155754,7
+pap_female,Z92.1 Personal history of long-term (current) use of anticoagulants,0.01632437339057185,7
+pap_female,H53.8 Other visual disturbances,1.223483451461163e-09,7
+pap_female,Z53.8 Procedure not carried out for other reasons,0.02435149470157127,7
+pap_female,Z98.2 Presence of cerebrospinal fluid drainage device,3.628761103483059e-14,7
+pap_female,Z87.1 Personal history of diseases of the digestive system,0.06789815787839427,7
+pap_female,A09.9 Gastroenteritis and colitis of unspecified origin,0.021269912060748426,6
+pap_female,R79.8 Other specified abnormal findings of blood chemistry,0.00020851150709477734,6
+pap_female,K58.9 Irritable bowel syndrome without diarrhoea,0.011205651499781205,6
+pap_female,"K52.9 Non-infective gastro-enteritis and colitis, unspecified",0.0671767612396253,6
+pap_female,K21.9 Gastro-oesophageal reflux disease without oesophagitis,0.33721359273533014,6
+pap_female,Z88.0 Personal history of allergy to penicillin,0.2814482744831382,6
+pap_female,N92.0 Excessive and frequent menstruation with regular cycle,0.023611011684070243,6
+pap_female,Z87.4 Personal history of diseases of the genito-urinary system,0.01444104944241764,6
+pap_female,R11 Nausea and vomiting,0.2251389041443439,5
+pap_female,R55 Syncope and collapse,0.036170660130128734,5
+pap_female,Z96.6 Presence of orthopaedic joint implants,0.2548147318355785,5
+pap_female,"I95.9 Hypotension, unspecified",0.006145619413176155,5
+pap_female,Z92.6 Personal history of chemotherapy for neoplastic disease,0.01199457563665294,5
+pap_female,"K29.7 Gastritis, unspecified",0.22410838466134858,5
+pap_female,R07.3 Other chest pain,0.02721832496824704,5
+pap_female,"M81.9 Osteoporosis, unspecified",0.07738874544800457,5
+pap_female,"T81.0 Haemorrhage and haematoma complicating a procedure, not elsewhere classified",0.0040862600620674375,5
+pap_female,Z11.5 Special screening examination for other viral diseases,0.06248989719164192,5
+pap_female,R10.3 Pain localised to other parts of lower abdomen,0.03092358272690034,5
+pap_female,R32 Unspecified urinary incontinence,0.0015660461662463532,5
+pap_female,Z86.6 Personal history of diseases of the nervous system and sense organs,0.052820442763793454,5
+pap_female,"Z88.8 Personal history of allergy to other drugs, medicaments and biological substances",0.0877279797812362,5
+pap_female,"N18.9 Chronic renal failure, unspecified",0.001627169586230605,5
+pap_female,R63.4 Abnormal weight loss,0.022621157384377602,5
+pap_female,Z90.4 Acquired absence of other parts of digestive tract,0.07102554930921658,5
+pap_female,"D50.9 Iron deficiency anaemia, unspecified",0.040803640417234936,5
+pap_male,"H47.1 Papilloedema, unspecified",3.3532170243484404e-140,35
+pap_male,I10 Essential (primary) hypertension,0.0004879205428669505,24
+pap_male,R51 Headache,4.149696076799041e-12,13
+pap_male,Z86.4 Personal history of psychoactive substance abuse,0.05144972536499144,12
+pap_male,E78.0 Pure hypercholesterolaemia,0.07720101021945659,11
+pap_male,Z92.1 Personal history of long-term (current) use of anticoagulants,0.000734245650029855,11
+pap_male,K44.9 Diaphragmatic hernia without obstruction or gangrene,0.004618614489638544,10
+pap_male,Z86.6 Personal history of diseases of the nervous system and sense organs,8.828809717806564e-06,10
+pap_male,"F32.9 Depressive episode, unspecified",5.966697918433766e-05,9
+pap_male,"N17.9 Acute renal failure, unspecified",0.0003461591702346325,9
+pap_male,Z86.7 Personal history of diseases of the circulatory system,0.010078718803745492,9
+pap_male,"I48.9 Atrial fibrillation and atrial flutter,  unspecified",0.0032730628780081113,8
+pap_male,E11.9 Without complications,0.03433299036587291,8
+pap_male,R42 Dizziness and giddiness,2.935934989832614e-06,8
+pap_male,I48 Atrial fibrillation and flutter,0.014188220553389112,7
+pap_male,"N39.0 Urinary tract infection, site not specified",0.005901577579836235,7
+pap_male,Z53.8 Procedure not carried out for other reasons,0.010122784137470715,7
+pap_male,"E66.9 Obesity, unspecified",0.01596476312879525,7
+pap_male,"R07.4 Chest pain, unspecified",0.03426020503029039,7
+pap_male,K63.5 Polyp of colon,0.017922523782277336,7
+pap_male,R11 Nausea and vomiting,0.0008714888844908124,7
+pap_male,A09.9 Gastroenteritis and colitis of unspecified origin,0.00042306680312943843,7
+pap_male,"H26.9 Cataract, unspecified",0.035630403314718034,6
+pap_male,K59.0 Constipation,0.021210303666509,6
+pap_male,R69 Unknown and unspecified causes of morbidity,0.03305309644371354,6
+pap_male,Z11.5 Special screening examination for other viral diseases,0.010110931580480294,6
+pap_male,Z87.1 Personal history of diseases of the digestive system,0.125867139837699,6
+pap_male,F17.1 Harmful use,0.02175438113664527,6
+pap_male,"J18.1 Lobar pneumonia, unspecified",0.006260678410666305,6
+pap_male,"J44.9 Chronic obstructive pulmonary disease, unspecified",0.009662074186500233,6
+pap_male,"N18.9 Chronic renal failure, unspecified",0.00039624328483984746,6
+pap_male,I25.1 Atherosclerotic heart disease,0.2843250383195486,6
+pap_male,N40 Hyperplasia of prostate,0.3071524304007757,6
+pap_male,K21.9 Gastro-oesophageal reflux disease without oesophagitis,0.17124219267996485,5
+pap_male,"K29.7 Gastritis, unspecified",0.05347419719288774,5
+pap_male,"K52.9 Non-infective gastro-enteritis and colitis, unspecified",0.021442620391412197,5
+pap_male,R13 Dysphagia,0.0070163856307338835,5
+pap_male,"K40.9 Unilateral or unspecified inguinal hernia, without obstruction or gangrene",0.36348139179712186,5
+pap_male,"R29.6 Tendency to fall, not elsewhere classified",0.0038392825736225378,5
+pap_male,R79.8 Other specified abnormal findings of blood chemistry,0.04299452881233416,5
+pap_male,"A41.9 Septicaemia, unspecified",0.0063141876686341305,5
+pap_male,Z92.2 Personal history of long-term (current) use of other medicaments,0.4690960915589615,5
+pap_male,Z92.3 Personal history of irradiation,0.002904390579286582,5
+pap_male,Z92.6 Personal history of chemotherapy for neoplastic disease,0.00245106120724831,5
+pap_male,"F41.9 Anxiety disorder, unspecified",0.0035240834721292913,5
+pap_male,N32.8 Other specified disorders of bladder,0.011086343926674968,5
+pap_male,R31 Unspecified haematuria,0.10925892656595236,5
+pap_male,Y83.6 Removal of other organ (partial) (total),0.0008618898555902087,5
+pap_male,Z87.4 Personal history of diseases of the genito-urinary system,0.007758765550922134,5
+pap_male,I51.7 Cardiomegaly,0.00348651430050549,5
+both_both_sex,G93.2 Benign intracranial hypertension,2.3484050704079053e-56,16
+both_both_sex,"H47.1 Papilloedema, unspecified",4.79079175980413e-58,16
+both_both_sex,I10 Essential (primary) hypertension,0.0009486139973215545,12
+both_both_sex,E78.0 Pure hypercholesterolaemia,2.7923630684530154e-05,10
+both_both_sex,"R07.4 Chest pain, unspecified",0.0001528406233614442,7
+both_both_sex,Z86.4 Personal history of psychoactive substance abuse,0.010260985365254952,7
+both_both_sex,"E66.9 Obesity, unspecified",0.0007159119352529754,6
+both_both_sex,"F32.9 Depressive episode, unspecified",0.00036554267161172734,6
+both_both_sex,Z86.7 Personal history of diseases of the circulatory system,0.0019361773203328996,6
+both_both_sex,R51 Headache,7.560694402613075e-06,6
+both_both_sex,Z88.1 Personal history of allergy to other antibiotic agents,1.2294507282117174e-06,6
+both_both_sex,E11.9 Without complications,0.008242678405097863,5
+both_both_sex,Z53.8 Procedure not carried out for other reasons,0.0026481560126451506,5
+both_both_sex,R10.4 Other and unspecified abdominal pain,0.002701707953477664,5
+both_both_sex,K44.9 Diaphragmatic hernia without obstruction or gangrene,0.03506423527902034,5
+both_both_sex,R07.3 Other chest pain,0.00019704964984553863,5
+both_both_sex,Z92.1 Personal history of long-term (current) use of anticoagulants,0.006230305426201928,5
+both_both_sex,Y83.1 Surgical operation with implant of artificial internal device,6.407386347763201e-05,5
+both_both_sex,Z98.2 Presence of cerebrospinal fluid drainage device,2.5203424072453512e-12,5
+both_both_sex,"M17.9 Gonarthrosis, unspecified",0.00600127301453574,5
+both_female,G93.2 Benign intracranial hypertension,7.757236729734341e-46,13
+both_female,"H47.1 Papilloedema, unspecified",3.4770231263982295e-47,13
+both_female,I10 Essential (primary) hypertension,0.0019201486482948711,10
+both_female,E78.0 Pure hypercholesterolaemia,0.00021800950987920542,8
+both_female,Z86.4 Personal history of psychoactive substance abuse,0.0024477836295054884,7
+both_female,R10.4 Other and unspecified abdominal pain,0.0009375025187088141,5
+both_female,K44.9 Diaphragmatic hernia without obstruction or gangrene,0.014033574084857094,5
+both_female,"R07.4 Chest pain, unspecified",0.0028038762475386587,5
+both_female,"M17.9 Gonarthrosis, unspecified",0.0021535571962614385,5
+both_female,Z88.1 Personal history of allergy to other antibiotic agents,8.64093249679017e-06,5
+any_disease_both_sexes,G93.2 Benign intracranial hypertension,0.0,105
+any_disease_both_sexes,I10 Essential (primary) hypertension,7.904915767462728e-10,98
+any_disease_both_sexes,"H47.1 Papilloedema, unspecified",1.840493597634234e-282,84
+any_disease_both_sexes,R51 Headache,1.5065905737669368e-30,48
+any_disease_both_sexes,E78.0 Pure hypercholesterolaemia,0.0011205067023635803,43
+any_disease_both_sexes,Z86.7 Personal history of diseases of the circulatory system,7.033370867933773e-10,43
+any_disease_both_sexes,Z86.4 Personal history of psychoactive substance abuse,0.007001446694922146,42
+any_disease_both_sexes,K44.9 Diaphragmatic hernia without obstruction or gangrene,0.0003451905578162887,37
+any_disease_both_sexes,"F32.9 Depressive episode, unspecified",9.195223837499676e-09,34
+any_disease_both_sexes,E11.9 Without complications,1.8482570994881765e-05,32
+any_disease_both_sexes,"E66.9 Obesity, unspecified",1.6787281034559675e-06,32
+any_disease_both_sexes,Z92.1 Personal history of long-term (current) use of anticoagulants,1.3105774518795588e-05,31
+any_disease_both_sexes,K21.9 Gastro-oesophageal reflux disease without oesophagitis,0.0010338210398200922,29
+any_disease_both_sexes,R69 Unknown and unspecified causes of morbidity,8.3141882623724e-06,29
+any_disease_both_sexes,Z86.6 Personal history of diseases of the nervous system and sense organs,4.2626153817460836e-08,27
+any_disease_both_sexes,"N17.9 Acute renal failure, unspecified",1.2747710082355475e-07,27
+any_disease_both_sexes,"N39.0 Urinary tract infection, site not specified",4.7382077687806825e-05,26
+any_disease_both_sexes,"R07.4 Chest pain, unspecified",0.002171934328460335,26
+any_disease_both_sexes,Z92.2 Personal history of long-term (current) use of other medicaments,0.0347501094169226,25
+any_disease_both_sexes,R10.4 Other and unspecified abdominal pain,0.0001408067578549395,25
+any_disease_both_sexes,F17.1 Harmful use,7.266151031764969e-06,25
+any_disease_both_sexes,"E03.9 Hypothyroidism, unspecified",0.000154470523101174,25
+any_disease_both_sexes,"J45.9 Asthma, unspecified",0.09119207881064026,24
+any_disease_both_sexes,Z53.8 Procedure not carried out for other reasons,0.0003292018652835542,24
+any_disease_both_sexes,K59.0 Constipation,0.0009701093997739121,23
+any_disease_both_sexes,"I20.9 Angina pectoris, unspecified",0.001408838691806419,22
+any_disease_both_sexes,Z87.1 Personal history of diseases of the digestive system,0.03931550739325352,22
+any_disease_both_sexes,Z11.5 Special screening examination for other viral diseases,3.59731576954236e-05,22
+any_disease_both_sexes,A09.9 Gastroenteritis and colitis of unspecified origin,5.182293599276703e-06,22
+any_disease_both_sexes,"I48.9 Atrial fibrillation and atrial flutter,  unspecified",0.00037795158358322473,21
+any_disease_both_sexes,"M17.9 Gonarthrosis, unspecified",0.02844768893289599,21
+any_disease_both_sexes,Z87.4 Personal history of diseases of the genito-urinary system,3.824572577828079e-06,21
+any_disease_both_sexes,R11 Nausea and vomiting,0.0008832553034597342,21
+any_disease_both_sexes,Z98.2 Presence of cerebrospinal fluid drainage device,2.603586812933636e-38,21
+any_disease_both_sexes,I48 Atrial fibrillation and flutter,0.0006328451939633725,20
+any_disease_both_sexes,I25.1 Atherosclerotic heart disease,0.0983957289556357,19
+any_disease_both_sexes,Z82.4 Family history of ischaemic heart disease and other diseases of the circulatory system,0.005009004042727639,19
+any_disease_both_sexes,"K52.9 Non-infective gastro-enteritis and colitis, unspecified",0.005114434573170896,18
+any_disease_both_sexes,"F41.9 Anxiety disorder, unspecified",0.00027145548024114924,18
+any_disease_both_sexes,Z72.0 Tobacco use,2.366398531696433e-05,18
+any_disease_both_sexes,"R29.6 Tendency to fall, not elsewhere classified",1.5211258883438285e-06,18
+any_disease_both_sexes,"G91.9 Hydrocephalus, unspecified",2.2976055310515655e-24,17
+any_disease_both_sexes,"R41.0 Disorientation, unspecified",1.3393362691817947e-08,17
+any_disease_both_sexes,R55 Syncope and collapse,0.002129417730187851,17
+any_disease_both_sexes,Z50.1 Other physical therapy,0.005688701269997466,17
+any_disease_both_sexes,K57.3 Diverticular disease of large intestine without perforation or abscess,0.9265707167629935,17
+any_disease_both_sexes,"K29.7 Gastritis, unspecified",0.08089784776478738,16
+any_disease_both_sexes,"I25.9 Chronic ischaemic heart disease, unspecified",0.0740861265634346,16
+any_disease_both_sexes,Z88.0 Personal history of allergy to penicillin,0.24518784256345685,16
+any_disease_both_sexes,"G43.9 Migraine, unspecified",6.8798752768239926e-09,16
+any_disease_both_sexes,"T81.0 Haemorrhage and haematoma complicating a procedure, not elsewhere classified",2.8687654598579556e-06,16
+any_disease_both_sexes,"Z88.8 Personal history of allergy to other drugs, medicaments and biological substances",0.0021872814620910153,16
+any_disease_both_sexes,N40 Hyperplasia of prostate,0.10191573988653352,15
+any_disease_both_sexes,Z90.4 Acquired absence of other parts of digestive tract,0.008367597705216967,15
+any_disease_both_sexes,Z88.1 Personal history of allergy to other antibiotic agents,2.1163313482193336e-05,15
+any_disease_both_sexes,R07.3 Other chest pain,0.0017329656500415485,15
+any_disease_both_sexes,R31 Unspecified haematuria,0.06186612081844199,15
+any_disease_both_sexes,R79.8 Other specified abnormal findings of blood chemistry,0.0012231040107936893,15
+any_disease_both_sexes,Z90.7 Acquired absence of genital organ(s),0.004301432915309642,15
+any_disease_both_sexes,"I95.9 Hypotension, unspecified",0.00010630835388771304,15
+any_disease_both_sexes,"J18.1 Lobar pneumonia, unspecified",0.004038107813555385,15
+any_disease_both_sexes,"H26.9 Cataract, unspecified",0.4447289119884612,14
+any_disease_both_sexes,"J44.9 Chronic obstructive pulmonary disease, unspecified",0.02388346588991412,14
+any_disease_both_sexes,"N18.9 Chronic renal failure, unspecified",4.012423181133479e-05,14
+any_disease_both_sexes,R32 Unspecified urinary incontinence,8.434470183457723e-07,14
+any_disease_both_sexes,Y83.6 Removal of other organ (partial) (total),2.6460696878499287e-05,14
+any_disease_both_sexes,"K57.9 Diverticular disease of intestine, part unspecified, without perforation or abscess",0.007573297647452903,14
+any_disease_both_sexes,"D50.9 Iron deficiency anaemia, unspecified",0.004586956922339483,14
+any_disease_both_sexes,R53 Malaise and fatigue,3.4697665287474826e-05,13
+any_disease_both_sexes,K63.5 Polyp of colon,0.3145678933508976,13
+any_disease_both_sexes,Z96.6 Presence of orthopaedic joint implants,0.3852248709294117,13
+any_disease_both_sexes,J22 Unspecified acute lower respiratory infection,0.020234892516244687,13
+any_disease_both_sexes,Z88.6 Personal history of allergy to analgesic agent,0.000618062176603357,13
+any_disease_both_sexes,"G81.9 Hemiplegia, unspecified",1.4462048978701068e-08,13
+any_disease_both_sexes,K58.9 Irritable bowel syndrome without diarrhoea,0.001272534255299335,13
+any_disease_both_sexes,Z92.6 Personal history of chemotherapy for neoplastic disease,0.001158448683300081,13
+any_disease_both_sexes,R42 Dizziness and giddiness,0.0006701855531356613,13
+any_disease_both_sexes,"D64.9 Anaemia, unspecified",0.3878284910848427,12
+any_disease_both_sexes,Z03.8 Observation for other suspected diseases and conditions,0.010245013598054404,12
+any_disease_both_sexes,"A41.9 Septicaemia, unspecified",0.0031679330063567063,12
+any_disease_both_sexes,R06.0 Dyspnoea,0.01539519007292981,12
+any_disease_both_sexes,Z92.3 Personal history of irradiation,0.0024748106320589837,12
+any_disease_both_sexes,"M19.9 Arthrosis, unspecified",0.30043684683430194,12
+any_disease_both_sexes,H53.8 Other visual disturbances,1.6135823121266213e-10,11
+any_disease_both_sexes,R13 Dysphagia,0.043101299132839346,11
+any_disease_both_sexes,I51.7 Cardiomegaly,0.0014620867347455583,11
+any_disease_both_sexes,G47.3 Sleep apnoea,0.0019089191354758534,11
+any_disease_both_sexes,R19.4 Change in bowel habit,0.27488680827783374,11
+any_disease_both_sexes,K20 Oesophagitis,0.054884490748328,11
+any_disease_both_sexes,"G40.9 Epilepsy, unspecified",4.0584676577305455e-05,11
+any_disease_both_sexes,R26.8 Other and unspecified abnormalities of gait and mobility,0.001661191017779641,11
+any_disease_both_sexes,I84.9 Unspecified haemorrhoids without complication,0.07584884348356682,11
+any_disease_both_sexes,E87.6 Hypokalaemia,0.00011551397249380986,11
+any_disease_both_sexes,R10.1 Pain localised to upper abdomen,0.2052030822017383,10
+any_disease_both_sexes,Z51.5 Palliative care,0.03626354940144813,10
+any_disease_both_sexes,Z53.0 Procedure not carried out because of contraindication,0.09992562386802163,10
+any_disease_both_sexes,R56.8 Other and unspecified convulsions,1.4058982371232753e-05,10
+any_disease_both_sexes,Z85.8 Personal history of malignant neoplasms of other organs and systems,0.11297368108392324,10
+any_disease_both_sexes,Z51.2 Other chemotherapy,0.06275247306822646,10
+any_disease_both_sexes,N92.0 Excessive and frequent menstruation with regular cycle,0.011239342837034693,10
+any_disease_both_sexes,R10.3 Pain localised to other parts of lower abdomen,0.03535014624511389,10
+any_disease_both_sexes,"I63.9 Cerebral infarction, unspecified",0.00013365288518577266,10
+any_disease_both_sexes,B96.2 Escherichia coli [E. coli] as the cause of diseases classified to other chapters,0.003994563178001067,9
+any_disease_both_sexes,D32.0 Cerebral meninges,7.594371821283712e-11,9
+any_disease_both_sexes,K21.0 Gastro-oesophageal reflux disease with oesophagitis,0.3648492124672119,9
+any_disease_both_sexes,"L98.9 Disorder of skin and subcutaneous tissue, unspecified",0.011456855260413824,9
+any_disease_both_sexes,Z95.5 Presence of coronary angioplasty implant and graft,0.08328689621256058,9
+any_disease_both_sexes,K30 Dyspepsia,0.24226978714031516,9
+any_disease_both_sexes,"M13.9 Arthritis, unspecified",0.197704583607098,9
+any_disease_both_sexes,"M16.9 Coxarthrosis, unspecified",0.43265967293973334,9
+any_disease_both_sexes,"Z50.7 Occupational therapy and vocational rehabilitation, not elsewhere classified",0.047515269771258126,9
+any_disease_both_sexes,I26.9 Pulmonary embolism without mention of acute cor pulmonale,0.008832155470886567,9
+any_disease_both_sexes,H25.1 Senile nuclear cataract,0.3344415613434504,9
+any_disease_both_sexes,R33 Retention of urine,0.36031393520141686,9
+any_disease_both_sexes,"L30.9 Dermatitis, unspecified",6.666843925155693e-05,9
+any_disease_both_sexes,Z86.0 Personal history of other neoplasms,0.05701366017915841,9
+any_disease_both_sexes,S06.50 Traumatic subdural haemorrhage (without open intracranial wound),1.6898636367311548e-09,9
+any_disease_both_sexes,"M19.99 Arthrosis, unspecified (Site unspecified)",0.008208500020289802,9
+any_disease_both_sexes,N32.8 Other specified disorders of bladder,0.06555759835676117,9
+any_disease_both_sexes,"K92.2 Gastro-intestinal haemorrhage, unspecified",0.11213168507308252,9
+any_disease_both_sexes,K80.2 Calculus of gallbladder without cholecystitis,0.1767676343232993,9
+any_disease_both_sexes,R63.4 Abnormal weight loss,0.11923617946920041,9
+any_disease_both_sexes,Y83.1 Surgical operation with implant of artificial internal device,0.061864637157649435,9
+any_disease_both_sexes,G56.0 Carpal tunnel syndrome,0.16173089225400886,9
+any_disease_both_sexes,R15 Faecal incontinence,0.00014932472397949546,9
+any_disease_both_sexes,B96.8 Other specified bacterial agents as the cause of diseases classified to other chapters,0.015939840051917415,8
+any_disease_both_sexes,Z96.8 Presence of other specified functional implants,6.131344370968588e-06,8
+any_disease_both_sexes,I20.0 Unstable angina,0.013413242819888802,8
+any_disease_both_sexes,T85.0 Mechanical complication of ventricular intracranial (communicating) shunt,8.032088210041273e-18,8
+any_disease_both_sexes,F10.1 Harmful use,0.004873091867016132,8
+any_disease_both_sexes,Y95 Nosocomial condition,0.0028110938843980684,8
+any_disease_both_sexes,I25.2 Old myocardial infarction,0.45933520544016215,8
+any_disease_both_sexes,J98.1 Pulmonary collapse,0.019425500989311142,8
+any_disease_both_sexes,"N18.3 Chronic kidney disease, stage 3",0.10108402048376447,8
+any_disease_both_sexes,G55.1 Nerve root and plexus compressions in intervertebral disk disorders,0.008739672285216202,8
+any_disease_both_sexes,N83.2 Other and unspecified ovarian cysts,0.0023766562038452705,8
+any_disease_both_sexes,"Z92.4 Personal history of major surgery, not elsewhere classified",2.2417463413755475e-05,8
+any_disease_both_sexes,K62.5 Haemorrhage of anus and rectum,0.4572780474200253,8
+any_disease_both_sexes,R29.8 Other and unspecified symptoms and signs involving the nervous and musculoskeletal systems,0.00037503648947014186,8
+any_disease_both_sexes,M54.5 Low back pain,0.013205358666217606,8
+any_disease_both_sexes,"M54.9 Dorsalgia, unspecified",0.01293186936542977,8
+any_disease_both_sexes,"M81.9 Osteoporosis, unspecified",0.1518141434970497,8
+any_disease_both_sexes,R35 Polyuria,0.0033880476908864933,8
+any_disease_both_sexes,I83.9 Varicose veins of lower extremities without ulcer or inflammation,0.40990415549778875,7
+any_disease_both_sexes,J44.0 Chronic obstructive pulmonary disease with acute lower respiratory infection,0.02330168865490112,7
+any_disease_both_sexes,Z12.1 Special screening examination for neoplasm of intestinal tract,0.3711692358225065,7
+any_disease_both_sexes,Z95.8 Presence of other cardiac and vascular implants and grafts,0.00466823888895982,7
+any_disease_both_sexes,"M15.9 Polyarthrosis, unspecified",0.13145081013974402,7
+any_disease_both_sexes,Z51.1 Chemotherapy session for neoplasm,0.37687440434147335,7
+any_disease_both_sexes,"I50.9 Heart failure, unspecified",0.01610648231868449,7
+any_disease_both_sexes,D70 Agranulocytosis,0.02070246941572157,7
+any_disease_both_sexes,"H91.9 Hearing loss, unspecified",0.11687260537975742,7
+any_disease_both_sexes,I25.8 Other forms of chronic ischaemic heart disease,0.0695509725084222,7
+any_disease_both_sexes,I50.1 Left ventricular failure,0.06931310899929798,7
+any_disease_both_sexes,"R00.1 Bradycardia, unspecified",0.029983710122800183,7
+any_disease_both_sexes,"E78.5 Hyperlipidaemia, unspecified",0.199619869342489,7
+any_disease_both_sexes,Z09.0 Follow-up examination after surgery for other conditions,0.07007600170303782,7
+any_disease_both_sexes,C79.3 Secondary malignant neoplasm of brain and cerebral meninges,2.258044703714899e-05,7
+any_disease_both_sexes,M79.7 Fibromyalgia,0.0001552805060346946,7
+any_disease_both_sexes,I34.0 Mitral (valve) insufficiency,0.012676951232704224,7
+any_disease_both_sexes,I67.8 Other specified cerebrovascular diseases,0.003777137986826701,7
+any_disease_both_sexes,Z95.1 Presence of aortocoronary bypass graft,0.046830616914436865,7
+any_disease_both_sexes,R07.2 Precordial pain,0.04902106068557678,7
+any_disease_both_sexes,Z37.0 Single live birth,0.25492648291807046,7
+any_disease_both_sexes,"Z91.0 Personal history of allergy, other than to drugs and biological substances",0.17170924931695264,7
+any_disease_both_sexes,G91.2 Normal-pressure hydrocephalus,2.6488845008091633e-12,7
+any_disease_both_sexes,R94.5 Abnormal results of liver function studies,0.07895383487610232,7
+any_disease_both_sexes,"R50.9 Fever, unspecified",0.05502640569636263,7
+any_disease_both_sexes,E86 Volume depletion,0.2489495170497606,6
+any_disease_both_sexes,K31.7 Polyp of stomach and duodenum,0.34949949682175563,6
+any_disease_both_sexes,N20.0 Calculus of kidney,0.0380839469994263,6
+any_disease_both_sexes,Z85.4 Personal history of malignant neoplasm of genital organs,0.28357885792609305,6
+any_disease_both_sexes,"K40.9 Unilateral or unspecified inguinal hernia, without obstruction or gangrene",0.9279307575125381,6
+any_disease_both_sexes,Z72.1 Alcohol use,0.6898722719389756,6
+any_disease_both_sexes,N81.1 Cystocele,0.08380166052303287,6
+any_disease_both_sexes,N95.0 Postmenopausal bleeding,0.4082088730013027,6
+any_disease_both_sexes,M51.1 Lumbar and other intervertebral disk disorders with radiculopathy,0.05693170584968236,6
+any_disease_both_sexes,"C50.9 Breast, unspecified",0.3824649009917845,6
+any_disease_both_sexes,G43.1 Migraine with aura [classical migraine],9.981949775836636e-08,6
+any_disease_both_sexes,I95.1 Orthostatic hypotension,0.030684038660871504,6
+any_disease_both_sexes,M79.86 Other specified soft tissue disorders (Lower leg),0.058037212548604125,6
+any_disease_both_sexes,M51.3 Other specified intervertebral disk degeneration,0.028077399267963373,6
+any_disease_both_sexes,H35.3 Degeneration of macula and posterior pole,0.14326554748423528,6
+any_disease_both_sexes,Z96.1 Presence of intraocular lens,0.7424056314251543,6
+any_disease_both_sexes,I50.0 Congestive heart failure,0.07230673477850355,6
+any_disease_both_sexes,"T82.8 Other complications of cardiac and vascular prosthetic devices, implants and grafts",0.0002965159587056029,6
+any_disease_both_sexes,Z80.0 Family history of malignant neoplasm of digestive organs,0.42599984724183215,6
+any_disease_both_sexes,Z86.1 Personal history of infectious and parasitic diseases,0.03317172878181907,6
+any_disease_both_sexes,"K02.9 Dental caries, unspecified",0.02032900629253913,6
+any_disease_both_sexes,N84.0 Polyp of corpus uteri,0.29151371362322775,6
+any_disease_both_sexes,Z87.8 Personal history of other specified conditions,0.0011815637204102664,6
+any_disease_both_sexes,"J18.9 Pneumonia, unspecified",0.32201458238338593,6
+any_disease_both_sexes,"F05.9 Delirium, unspecified",0.011327935215490031,6
+any_disease_both_sexes,Z87.0 Personal history of diseases of the respiratory system,0.01808724764902084,6
+any_disease_both_sexes,K29.8 Duodenitis,0.45863164295129827,6
+any_disease_both_sexes,Z13.8 Special screening examination for other specified diseases and disorders,0.009142493020867538,6
+any_disease_both_sexes,S06.60 Traumatic subarachnoid haemorrhage (without open intracranial wound),1.0779386657005816e-06,6
+any_disease_both_sexes,Y83.8 Other surgical procedures,0.16938855234014455,6
+any_disease_both_sexes,S02.10 Fracture of base of skull (closed),2.4472603827040677e-07,6
+any_disease_both_sexes,H53.2 Diplopia,0.0006060470464801437,5
+any_disease_both_sexes,G91.1 Obstructive hydrocephalus,1.2953717005132344e-08,5
+any_disease_both_sexes,"I21.9 Acute myocardial infarction, unspecified",0.0666944177243483,5
+any_disease_both_sexes,I35.0 Aortic (valve) stenosis,0.0638502124695641,5
+any_disease_both_sexes,"M06.9 Rheumatoid arthritis, unspecified",0.09041107251116567,5
+any_disease_both_sexes,"M13.99 Arthritis, unspecified (Site unspecified)",0.12124850760324025,5
+any_disease_both_sexes,"T85.8 Other complications of internal prosthetic devices, implants and grafts, not elsewhere classified",3.9457462472673206e-05,5
+any_disease_both_sexes,C61 Malignant neoplasm of prostate,0.6650514422875532,5
+any_disease_both_sexes,I48.0 Paroxysmal atrial fibrillation,0.14336157617952738,5
+any_disease_both_sexes,R73.0 Abnormal glucose tolerance test,0.0011188284789668814,5
+any_disease_both_sexes,Z13.6 Special screening examination for cardiovascular disorders,0.0047636606384635505,5
+any_disease_both_sexes,Z46.6 Fitting and adjustment of urinary device,0.3039718711984904,5
+any_disease_both_sexes,H93.1 Tinnitus,0.000448575578405398,5
+any_disease_both_sexes,"M19.94 Arthrosis, unspecified (Hand)",0.0107442090199723,5
+any_disease_both_sexes,R47.0 Dysphasia and aphasia,0.0016281251679036149,5
+any_disease_both_sexes,I12.0 Hypertensive renal disease with renal failure,0.0008196806027936117,5
+any_disease_both_sexes,"I69.4 Sequelae of stroke, not specified as haemorrhage or infarction",0.003129326909688821,5
+any_disease_both_sexes,E10.9 Without complications,0.02869718222044362,5
+any_disease_both_sexes,"L97 Ulcer of lower limb, not elsewhere classified",0.012024674311741878,5
+any_disease_both_sexes,M47.86 Other spondylosis (Lumbar region),0.024354331365154802,5
+any_disease_both_sexes,"I60.9 Subarachnoid haemorrhage, unspecified",3.516712863513403e-05,5
+any_disease_both_sexes,"D25.9 Leiomyoma of uterus, unspecified",0.44600233653970506,5
+any_disease_both_sexes,Z51.0 Radiotherapy session,0.012897318607446175,5
+any_disease_both_sexes,R12 Heartburn,0.020698095738382355,5
+any_disease_both_sexes,"G45.9 Transient cerebral ischaemic attack, unspecified",0.025397405322629324,5
+any_disease_both_sexes,R21 Rash and other nonspecific skin eruption,0.02792952325968447,5
+any_disease_both_sexes,W11.0 Home,0.00011167364022255005,5
+any_disease_both_sexes,M20.1 Hallux valgus (acquired),0.3683379447711097,5
+any_disease_both_sexes,N81.6 Rectocele,0.13559786790706588,5
+any_disease_both_sexes,X59.9 Unspecified place,0.09726213793310133,5
+any_disease_both_sexes,G93.6 Cerebral oedema,2.965220179501077e-06,5
+any_disease_both_sexes,"J90 Pleural effusion, not elsewhere classified",0.7465060169911398,5
+any_disease_both_sexes,"M10.9 Gout, unspecified",0.16087025708202876,5
+any_disease_both_sexes,E87.2 Acidosis,0.023146072178112032,5
+any_disease_both_sexes,"N18.5 Chronic kidney disease, stage 5",0.00012345215992354204,5
+any_disease_both_sexes,Z99.2 Dependence on renal dialysis,4.221944983929197e-05,5
+any_disease_both_sexes,K63.8 Other specified diseases of intestine,0.012832055961568976,5
+any_disease_both_sexes,"H53.9 Visual disturbance, unspecified",2.074980508301402e-05,5
+any_disease_both_sexes,Z86.2 Personal history of diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,5.794450319792402e-05,5
+any_disease_both_sexes,"M81.99 Osteoporosis, unspecified (Site unspecified)",0.09142582636912176,5
+any_disease_both_sexes,"N35.9 Urethral stricture, unspecified",0.07856578738732593,5
+any_disease_both_sexes,I62.0 Subdural haemorrhage (acute) (nontraumatic),1.2597906519159065e-05,5
+any_disease_both_sexes,M51.2 Other specified intervertebral disk displacement,0.05713075515008269,5
+any_disease_both_sexes,"R00.0 Tachycardia, unspecified",0.09929940476662885,5
+any_disease_both_sexes,E66.8 Other obesity,0.029290966282552528,5
+any_disease_both_sexes,Z99.8 Dependence on other enabling machines and devices,0.0002895636687361,5
+any_disease_both_sexes,R03.1 Nonspecific low blood-pressure reading,0.008404440696029209,5
+any_disease_both_sexes,"M13.94 Arthritis, unspecified (Hand)",0.0013690909250017337,5
+any_disease_both_sexes,Z85.3 Personal history of malignant neoplasm of breast,0.6442057269019567,5
+any_disease_both_sexes,"I44.7 Left bundle-branch block, unspecified",0.06718550339726816,5
+any_disease_both_sexes,R41.8 Other and unspecified symptoms and signs involving cognitive functions and awareness,0.0034469492954532174,5
+any_disease_both_sexes,R39.8 Other and unspecified symptoms and signs involving the urinary system,0.07349435923376868,5
+any_disease_both_sexes,"T81.8 Other complications of procedures, not elsewhere classified",0.022890041436079363,5
+any_disease_female,G93.2 Benign intracranial hypertension,1.5596364020946402e-226,67
+any_disease_female,I10 Essential (primary) hypertension,7.46417402774557e-08,56
+any_disease_female,"H47.1 Papilloedema, unspecified",8.993846734447788e-163,49
+any_disease_female,R51 Headache,8.988801386614994e-17,28
+any_disease_female,Z86.7 Personal history of diseases of the circulatory system,1.3491346686302748e-07,25
+any_disease_female,K44.9 Diaphragmatic hernia without obstruction or gangrene,0.0018292006635801275,24
+any_disease_female,K21.9 Gastro-oesophageal reflux disease without oesophagitis,0.0001133359700324804,23
+any_disease_female,E78.0 Pure hypercholesterolaemia,0.004107517812105746,22
+any_disease_female,Z86.4 Personal history of psychoactive substance abuse,0.021653094142980767,21
+any_disease_female,R10.4 Other and unspecified abdominal pain,2.648293835791174e-05,21
+any_disease_female,"E03.9 Hypothyroidism, unspecified",0.001746775223435623,20
+any_disease_female,"F32.9 Depressive episode, unspecified",0.0003249879838786258,19
+any_disease_female,E11.9 Without complications,4.962097153827782e-05,18
+any_disease_female,"M17.9 Gonarthrosis, unspecified",0.000628335258332687,18
+any_disease_female,"E66.9 Obesity, unspecified",0.00041908347647917274,18
+any_disease_female,"N39.0 Urinary tract infection, site not specified",0.0009250570697420998,16
+any_disease_female,"N17.9 Acute renal failure, unspecified",6.677710344828295e-07,16
+any_disease_female,"J45.9 Asthma, unspecified",0.20033101720829707,15
+any_disease_female,Z88.0 Personal history of allergy to penicillin,0.0446129240541043,15
+any_disease_female,F17.1 Harmful use,6.985132778820472e-05,15
+any_disease_female,"R07.4 Chest pain, unspecified",0.011257197834726694,15
+any_disease_female,"G43.9 Migraine, unspecified",3.0196335065849166e-09,15
+any_disease_female,R69 Unknown and unspecified causes of morbidity,0.010261457301306263,14
+any_disease_female,Z87.4 Personal history of diseases of the genito-urinary system,8.032844416588577e-05,14
+any_disease_female,"I20.9 Angina pectoris, unspecified",0.0003110198408724312,13
+any_disease_female,Z88.1 Personal history of allergy to other antibiotic agents,5.140588228387223e-05,13
+any_disease_female,Z90.7 Acquired absence of genital organ(s),0.009437049081457174,13
+any_disease_female,K57.3 Diverticular disease of large intestine without perforation or abscess,0.560653820702883,13
+any_disease_female,Z53.8 Procedure not carried out for other reasons,0.007772978221667801,13
+any_disease_female,A09.9 Gastroenteritis and colitis of unspecified origin,0.0006844102917185031,13
+any_disease_female,Z86.6 Personal history of diseases of the nervous system and sense organs,0.0012452539931074595,12
+any_disease_female,Z88.6 Personal history of allergy to analgesic agent,0.00014079296822419262,12
+any_disease_female,"K57.9 Diverticular disease of intestine, part unspecified, without perforation or abscess",0.0009392967279640112,12
+any_disease_female,K59.0 Constipation,0.04398914751580047,12
+any_disease_female,"F41.9 Anxiety disorder, unspecified",0.014386559710594451,11
+any_disease_female,Z82.4 Family history of ischaemic heart disease and other diseases of the circulatory system,0.007498300121281705,11
+any_disease_female,Z92.2 Personal history of long-term (current) use of other medicaments,0.1410784212506513,11
+any_disease_female,Z72.0 Tobacco use,8.749490321650244e-05,11
+any_disease_female,"K52.9 Non-infective gastro-enteritis and colitis, unspecified",0.04062821557705127,11
+any_disease_female,Z92.1 Personal history of long-term (current) use of anticoagulants,0.02479584028527887,11
+any_disease_female,Z90.4 Acquired absence of other parts of digestive tract,0.007285031806027891,11
+any_disease_female,Z98.2 Presence of cerebrospinal fluid drainage device,4.2980154340357867e-20,11
+any_disease_female,Z50.1 Other physical therapy,0.009682063226800161,11
+any_disease_female,Z87.1 Personal history of diseases of the digestive system,0.14049584063432025,11
+any_disease_female,Z96.6 Presence of orthopaedic joint implants,0.18123464621372298,10
+any_disease_female,R11 Nausea and vomiting,0.14728780835827338,10
+any_disease_female,R55 Syncope and collapse,0.005447231293871536,10
+any_disease_female,N92.0 Excessive and frequent menstruation with regular cycle,0.019582361973827667,10
+any_disease_female,K58.9 Irritable bowel syndrome without diarrhoea,0.006647180808162464,10
+any_disease_female,"M19.9 Arthrosis, unspecified",0.1471612647950603,10
+any_disease_female,Z11.5 Special screening examination for other viral diseases,0.015056745479578963,10
+any_disease_female,"Z88.8 Personal history of allergy to other drugs, medicaments and biological substances",0.02800980302667681,10
+any_disease_female,"G91.9 Hydrocephalus, unspecified",3.8156661611277294e-13,9
+any_disease_female,"K29.7 Gastritis, unspecified",0.24482517890205246,9
+any_disease_female,R07.3 Other chest pain,0.009857650733849756,9
+any_disease_female,R32 Unspecified urinary incontinence,8.002462657664872e-05,9
+any_disease_female,"I48.9 Atrial fibrillation and atrial flutter,  unspecified",0.012073779484916492,9
+any_disease_female,"I95.9 Hypotension, unspecified",0.0008301449083955643,9
+any_disease_female,"D50.9 Iron deficiency anaemia, unspecified",0.01893847766838943,9
+any_disease_female,R10.1 Pain localised to upper abdomen,0.14157072107068755,8
+any_disease_female,K20 Oesophagitis,0.02014097919228222,8
+any_disease_female,N83.2 Other and unspecified ovarian cysts,0.004049053239802173,8
+any_disease_female,"R41.0 Disorientation, unspecified",9.264709364334232e-05,8
+any_disease_female,"M19.99 Arthrosis, unspecified (Site unspecified)",0.002948192415785004,8
+any_disease_female,K80.2 Calculus of gallbladder without cholecystitis,0.08667867333710738,8
+any_disease_female,R79.8 Other specified abnormal findings of blood chemistry,0.0004722702640371371,8
+any_disease_female,"M81.9 Osteoporosis, unspecified",0.10881913822311369,8
+any_disease_female,R10.3 Pain localised to other parts of lower abdomen,0.03262446077381053,8
+any_disease_female,"R29.6 Tendency to fall, not elsewhere classified",0.004277126333516246,8
+any_disease_female,"T81.0 Haemorrhage and haematoma complicating a procedure, not elsewhere classified",0.0018361645267155665,8
+any_disease_female,B96.2 Escherichia coli [E. coli] as the cause of diseases classified to other chapters,0.000911612993507925,8
+any_disease_female,I25.1 Atherosclerotic heart disease,0.11068541125029745,7
+any_disease_female,"I25.9 Chronic ischaemic heart disease, unspecified",0.07940390493416682,7
+any_disease_female,J22 Unspecified acute lower respiratory infection,0.06776075898334774,7
+any_disease_female,K30 Dyspepsia,0.19158637915554017,7
+any_disease_female,R06.0 Dyspnoea,0.05523711851432634,7
+any_disease_female,I48 Atrial fibrillation and flutter,0.04152698445314393,7
+any_disease_female,"G81.9 Hemiplegia, unspecified",1.185617925947447e-05,7
+any_disease_female,M79.7 Fibromyalgia,0.00012617405844380627,7
+any_disease_female,Z51.2 Other chemotherapy,0.09880771654562291,7
+any_disease_female,R31 Unspecified haematuria,0.13333794884615383,7
+any_disease_female,Z92.6 Personal history of chemotherapy for neoplastic disease,0.026525018372899098,7
+any_disease_female,Z37.0 Single live birth,0.33722782720382444,7
+any_disease_female,I26.9 Pulmonary embolism without mention of acute cor pulmonale,0.0021437248657049006,7
+any_disease_female,G56.0 Carpal tunnel syndrome,0.17089669414827635,7
+any_disease_female,H53.8 Other visual disturbances,2.3392168511485864e-07,7
+any_disease_female,Y83.6 Removal of other organ (partial) (total),0.007069363909481463,7
+any_disease_female,"D64.9 Anaemia, unspecified",0.45913585161879544,7
+any_disease_female,"H26.9 Cataract, unspecified",0.7269517322333896,7
+any_disease_female,"N18.9 Chronic renal failure, unspecified",0.002264688902751398,7
+any_disease_female,E87.6 Hypokalaemia,0.0017499217340333428,7
+any_disease_female,"J44.9 Chronic obstructive pulmonary disease, unspecified",0.1896528714179547,6
+any_disease_female,"M13.9 Arthritis, unspecified",0.2921331363967569,6
+any_disease_female,Z51.5 Palliative care,0.047928969472493074,6
+any_disease_female,N81.1 Cystocele,0.11703138044666353,6
+any_disease_female,N95.0 Postmenopausal bleeding,0.5022660220983414,6
+any_disease_female,Z53.0 Procedure not carried out because of contraindication,0.13215206309540936,6
+any_disease_female,"C50.9 Breast, unspecified",0.46650584867611156,6
+any_disease_female,"G40.9 Epilepsy, unspecified",0.0020777841867334708,6
+any_disease_female,K62.5 Haemorrhage of anus and rectum,0.27600676047512485,6
+any_disease_female,I84.9 Unspecified haemorrhoids without complication,0.16840510297368044,6
+any_disease_female,N84.0 Polyp of corpus uteri,0.37236201631017435,6
+any_disease_female,Y83.1 Surgical operation with implant of artificial internal device,0.058757482911799844,6
+any_disease_female,Z96.8 Presence of other specified functional implants,1.3709682823943023e-05,6
+any_disease_female,"J18.1 Lobar pneumonia, unspecified",0.11703138044666353,6
+any_disease_female,R15 Faecal incontinence,0.0028223476036699406,6
+any_disease_female,R56.8 Other and unspecified convulsions,0.00024952609105336707,6
+any_disease_female,Z92.3 Personal history of irradiation,0.046239951987224304,6
+any_disease_female,I20.0 Unstable angina,0.005463148186255848,5
+any_disease_female,"M06.9 Rheumatoid arthritis, unspecified",0.033175785222593415,5
+any_disease_female,T85.0 Mechanical complication of ventricular intracranial (communicating) shunt,7.028395330269718e-12,5
+any_disease_female,Z95.8 Presence of other cardiac and vascular implants and grafts,0.0005882346415211721,5
+any_disease_female,B96.8 Other specified bacterial agents as the cause of diseases classified to other chapters,0.02899187001290413,5
+any_disease_female,G55.1 Nerve root and plexus compressions in intervertebral disk disorders,0.03277665329809106,5
+any_disease_female,"D25.9 Leiomyoma of uterus, unspecified",0.5331084131268096,5
+any_disease_female,R12 Heartburn,0.00526759674065562,5
+any_disease_female,"M16.9 Coxarthrosis, unspecified",0.628606359358071,5
+any_disease_female,M51.3 Other specified intervertebral disk degeneration,0.018362656732882402,5
+any_disease_female,M54.5 Low back pain,0.04863576831882352,5
+any_disease_female,N81.6 Rectocele,0.1784713820502189,5
+any_disease_female,R19.4 Change in bowel habit,0.7464040351215075,5
+any_disease_female,Z80.0 Family history of malignant neoplasm of digestive organs,0.2847048549905241,5
+any_disease_female,R13 Dysphagia,0.30082402107041856,5
+any_disease_female,R07.2 Precordial pain,0.040178009696136885,5
+any_disease_female,"A41.9 Septicaemia, unspecified",0.07577082531090908,5
+any_disease_female,R26.8 Other and unspecified abnormalities of gait and mobility,0.04999746352296553,5
+any_disease_female,R53 Malaise and fatigue,0.043254939375998065,5
+any_disease_female,Z85.3 Personal history of malignant neoplasm of breast,0.7199976198132749,5
+any_disease_female,R35 Polyuria,0.0053322197323004685,5
+any_disease_female,R63.4 Abnormal weight loss,0.25550972069432293,5
+any_disease_male_df,I10 Essential (primary) hypertension,0.0004332149498781639,42
+any_disease_male_df,G93.2 Benign intracranial hypertension,6.093892150364733e-131,38
+any_disease_male_df,"H47.1 Papilloedema, unspecified",3.761849367753324e-120,35
+any_disease_male_df,E78.0 Pure hypercholesterolaemia,0.03200868927322903,21
+any_disease_male_df,Z86.4 Personal history of psychoactive substance abuse,0.053298475663464545,21
+any_disease_male_df,R51 Headache,2.4559850211019077e-15,20
+any_disease_male_df,Z92.1 Personal history of long-term (current) use of anticoagulants,2.8729017262200948e-05,20
+any_disease_male_df,Z86.7 Personal history of diseases of the circulatory system,0.00034136958734613706,18
+any_disease_male_df,"F32.9 Depressive episode, unspecified",2.7698742888396848e-06,15
+any_disease_male_df,N40 Hyperplasia of prostate,0.03603410849346429,15
+any_disease_male_df,R69 Unknown and unspecified causes of morbidity,8.479948301549219e-05,15
+any_disease_male_df,Z86.6 Personal history of diseases of the nervous system and sense organs,2.973529679121258e-06,15
+any_disease_male_df,E11.9 Without complications,0.020002880501485226,14
+any_disease_male_df,"E66.9 Obesity, unspecified",0.0008116625606375503,14
+any_disease_male_df,Z92.2 Personal history of long-term (current) use of other medicaments,0.05784539936718398,14
+any_disease_male_df,I48 Atrial fibrillation and flutter,0.0020203288681270018,13
+any_disease_male_df,K44.9 Diaphragmatic hernia without obstruction or gangrene,0.05184625563137765,13
+any_disease_male_df,"I48.9 Atrial fibrillation and atrial flutter,  unspecified",0.004708641694285904,12
+any_disease_male_df,I25.1 Atherosclerotic heart disease,0.17621479177913943,12
+any_disease_male_df,Z11.5 Special screening examination for other viral diseases,0.00032784130314041256,12
+any_disease_male_df,K59.0 Constipation,0.004330765767105718,11
+any_disease_male_df,K63.5 Polyp of colon,0.020802933885396543,11
+any_disease_male_df,"R07.4 Chest pain, unspecified",0.04818724382964123,11
+any_disease_male_df,Z87.1 Personal history of diseases of the digestive system,0.08132984002185666,11
+any_disease_male_df,Z53.8 Procedure not carried out for other reasons,0.009679297282746857,11
+any_disease_male_df,"N17.9 Acute renal failure, unspecified",0.005977385660585059,11
+any_disease_male_df,R11 Nausea and vomiting,0.0003061170798243915,11
+any_disease_male_df,"N39.0 Urinary tract infection, site not specified",0.013069064868951822,10
+any_disease_male_df,F17.1 Harmful use,0.012824263213950776,10
+any_disease_male_df,"R29.6 Tendency to fall, not elsewhere classified",4.776668883449281e-05,10
+any_disease_male_df,Z98.2 Presence of cerebrospinal fluid drainage device,9.076490415510847e-20,10
+any_disease_male_df,"I25.9 Chronic ischaemic heart disease, unspecified",0.2000973942405341,9
+any_disease_male_df,"J45.9 Asthma, unspecified",0.19264319670763252,9
+any_disease_male_df,"R41.0 Disorientation, unspecified",2.1964392895216028e-05,9
+any_disease_male_df,"I20.9 Angina pectoris, unspecified",0.1682626220143768,9
+any_disease_male_df,"J18.1 Lobar pneumonia, unspecified",0.006610513470601733,9
+any_disease_male_df,A09.9 Gastroenteritis and colitis of unspecified origin,0.0019430994198556158,9
+any_disease_male_df,R42 Dizziness and giddiness,9.464833521429951e-05,9
+any_disease_male_df,R53 Malaise and fatigue,7.885767860862777e-05,8
+any_disease_male_df,Z03.8 Observation for other suspected diseases and conditions,0.00322249451964039,8
+any_disease_male_df,I51.7 Cardiomegaly,0.0010700138779946328,8
+any_disease_male_df,"J44.9 Chronic obstructive pulmonary disease, unspecified",0.03202033194045167,8
+any_disease_male_df,R31 Unspecified haematuria,0.1382460062925826,8
+any_disease_male_df,Z82.4 Family history of ischaemic heart disease and other diseases of the circulatory system,0.12014281426469955,8
+any_disease_male_df,"T81.0 Haemorrhage and haematoma complicating a procedure, not elsewhere classified",0.0003081953551243501,8
+any_disease_male_df,"G91.9 Hydrocephalus, unspecified",1.0615688707925206e-12,8
+any_disease_male_df,"H26.9 Cataract, unspecified",0.23087223813161437,7
+any_disease_male_df,"K29.7 Gastritis, unspecified",0.11931413950013892,7
+any_disease_male_df,"K52.9 Non-infective gastro-enteritis and colitis, unspecified",0.042520575635795615,7
+any_disease_male_df,"L98.9 Disorder of skin and subcutaneous tissue, unspecified",0.0009557362630275491,7
+any_disease_male_df,"A41.9 Septicaemia, unspecified",0.009730207700854952,7
+any_disease_male_df,"F41.9 Anxiety disorder, unspecified",0.004690539100126008,7
+any_disease_male_df,G47.3 Sleep apnoea,0.009873186469290116,7
+any_disease_male_df,R79.8 Other specified abnormal findings of blood chemistry,0.09394162954708167,7
+any_disease_male_df,Z87.4 Personal history of diseases of the genito-urinary system,0.012546986891350542,7
+any_disease_male_df,"Z50.7 Occupational therapy and vocational rehabilitation, not elsewhere classified",0.0035012056289894203,7
+any_disease_male_df,"N18.9 Chronic renal failure, unspecified",0.0035317419838799802,7
+any_disease_male_df,Z72.0 Tobacco use,0.027437805436262175,7
+any_disease_male_df,R55 Syncope and collapse,0.07955253736319709,7
+any_disease_male_df,Y83.6 Removal of other organ (partial) (total),0.0007676083192940841,7
+any_disease_male_df,Z85.8 Personal history of malignant neoplasms of other organs and systems,0.030235972021271894,7
+any_disease_male_df,K21.9 Gastro-oesophageal reflux disease without oesophagitis,0.5502854585289921,6
+any_disease_male_df,R13 Dysphagia,0.03548564248033812,6
+any_disease_male_df,F10.1 Harmful use,0.007104700464832197,6
+any_disease_male_df,R07.3 Other chest pain,0.05083273321677122,6
+any_disease_male_df,R19.4 Change in bowel habit,0.06753908067082229,6
+any_disease_male_df,"H91.9 Hearing loss, unspecified",0.015256202646738784,6
+any_disease_male_df,"K40.9 Unilateral or unspecified inguinal hernia, without obstruction or gangrene",0.8185461481500185,6
+any_disease_male_df,"G81.9 Hemiplegia, unspecified",0.00019728383338344025,6
+any_disease_male_df,"I95.9 Hypotension, unspecified",0.025205307344147238,6
+any_disease_male_df,I25.2 Old myocardial infarction,0.34519208627382403,6
+any_disease_male_df,J22 Unspecified acute lower respiratory infection,0.0947737256884636,6
+any_disease_male_df,"L30.9 Dermatitis, unspecified",0.00010509232360638639,6
+any_disease_male_df,Z50.1 Other physical therapy,0.15583012848450187,6
+any_disease_male_df,Z92.3 Personal history of irradiation,0.014409320144072164,6
+any_disease_male_df,R26.8 Other and unspecified abnormalities of gait and mobility,0.008214639448849205,6
+any_disease_male_df,R33 Retention of urine,0.37865075470859066,6
+any_disease_male_df,G91.2 Normal-pressure hydrocephalus,4.676549058928872e-12,6
+any_disease_male_df,"Z88.8 Personal history of allergy to other drugs, medicaments and biological substances",0.025756840440312404,6
+any_disease_male_df,Z92.6 Personal history of chemotherapy for neoplastic disease,0.01206722554477683,6
+any_disease_male_df,"I63.9 Cerebral infarction, unspecified",0.001745799078411536,6
+any_disease_male_df,N32.8 Other specified disorders of bladder,0.055720686388919034,6
+any_disease_male_df,D32.0 Cerebral meninges,1.789277156644173e-08,5
+any_disease_male_df,"D64.9 Anaemia, unspecified",0.43894932851864243,5
+any_disease_male_df,K21.0 Gastro-oesophageal reflux disease with oesophagitis,0.2538598592751984,5
+any_disease_male_df,C61 Malignant neoplasm of prostate,0.5548217473718877,5
+any_disease_male_df,R06.0 Dyspnoea,0.09692463771442257,5
+any_disease_male_df,H25.1 Senile nuclear cataract,0.1497997992925456,5
+any_disease_male_df,"N18.3 Chronic kidney disease, stage 3",0.05099301638542151,5
+any_disease_male_df,Z95.5 Presence of coronary angioplasty implant and graft,0.28468407529791995,5
+any_disease_male_df,"G40.9 Epilepsy, unspecified",0.005047073541681842,5
+any_disease_male_df,W11.0 Home,1.115729415759013e-05,5
+any_disease_male_df,Z86.0 Personal history of other neoplasms,0.050670705230970566,5
+any_disease_male_df,S06.50 Traumatic subdural haemorrhage (without open intracranial wound),6.933786058565487e-06,5
+any_disease_male_df,Z95.1 Presence of aortocoronary bypass graft,0.09567274244420489,5
+any_disease_male_df,C79.3 Secondary malignant neoplasm of brain and cerebral meninges,1.9746352584696598e-05,5
+any_disease_male_df,I84.9 Unspecified haemorrhoids without complication,0.1724938141613014,5
+any_disease_male_df,"K92.2 Gastro-intestinal haemorrhage, unspecified",0.1020164496651429,5
+any_disease_male_df,"E03.9 Hypothyroidism, unspecified",0.0517342978085587,5
+any_disease_male_df,R32 Unspecified urinary incontinence,0.0031693658352675816,5
+any_disease_male_df,"D50.9 Iron deficiency anaemia, unspecified",0.0860891536700754,5

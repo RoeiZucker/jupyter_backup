@@ -1,0 +1,271 @@
+Risk factor,ID,Subject,# items,# instances,pickle type,Do we have acsses,notes
+Age,21022,Age at recruitment,"502,460",1,main,,
+,34,Year of birth,"502,460",1,main,,
+Gender,31,Sex,"502,460",1,main,,
+Education,6138,Qualifications,"498,725",4,main,,
+Residence,20118,Home area population density - urban or rura,"497,359",1,main,,
+,26417,Living environment score (England),,,,,
+Employment,6142,Current employment status,"501,607",4,main,,
+,767,Length of working week for main job,"288,405",4,Employment,,
+,757,Time employed in main current job,"288,404",4,Employment,,
+,20277,Job code at visit,"339,331",1,Employment,,
+Physical activity,884,Number of days/week of moderate physical activity 10+ minutes,"501,599",4,main,,
+,904,Number of days/week of vigorous physical activity 10+ minutes,"501,599",4,main,,
+,864,Number of days/week walked 10+ minutes,"501,603",4,main,,
+,816,Job involves heavy manual or physical work,"288,405",4,Physical activity,,
+,104920,Time spent doing light physical activity,,,,,
+,104900,Time spent doing vigorous physical activity,,,,,
+,22617,Job code - historical,"402,590",1,Physical activity,,
+,6164,Types of physical activity in last 4 weeks,"497,095",4,Physical activity,,
+,2634,Duration of heavy DIY,"215,665",4,Physical activity,,depends on 6164
+,1021,Duration of light DIY,"260,950",4,Physical activity,,depends on 6164
+,894,Duration of moderate activity,"418,110",4,Physical activity,,depends on 6164
+,3647,Duration of other exercises,"245,841",4,Physical activity,,depends on 6164
+,1001,Duration of strenuous sports,"53,706",4,Physical activity,,depends on 6164
+,914,Duration of vigorous activity,"304,668",4,Physical activity,,depends on 6164
+,874,Duration of walks,"480,068",4,Physical activity,,depends on 6164
+,981,Duration walking for pleasure,"359,871",4,Physical activity,,depends on 6164
+,2624,Frequency of heavy DIY in last 4 weeks,"215,665",4,Physical activity,,depends on 6164
+,1011,Frequency of light DIY in last 4 weeks,"260,950",4,Physical activity,,depends on 6164
+,3637,Frequency of other exercises in last 4 weeks,"245,841",4,Physical activity,,depends on 6164
+,943,Frequency of stair climbing in last 4 weeks,"496,843",4,Physical activity,,depends on 6164
+,991,Frequency of strenuous sports in last 4 weeks,"53,706",4,Physical activity,,depends on 6164
+,971,Frequency of walking for pleasure in last 4 weeks,"359,871",4,Physical activity,,depends on 6164
+,924,Usual walking pace,"499,709",4,Physical activity,,
+Sleep,1160,Sleep duration,"501,590",4,main,,
+,1200,Sleeplessness / insomnia,"501,586",4,main,,
+,1170,Getting up in morning,"498,708",4,Sleep,,
+,1180,Morning/evening person (chronotype),"498,706",4,Sleep,,
+,1190,Nap during day,"501,586",4,Sleep,,
+,1210,Snoring,"501,586",4,Sleep,,
+,20533,Trouble falling asleep,"60,886",1,Sleep,,
+,20535,Waking too early,"60,886",1,Sleep,,
+,120106,"Trouble falling or staying asleep, or sleeping too much","167,199",1,Sleep,,
+,1220,Daytime dozing / sleeping (narcolepsy),"501,586",4,Sleep,,
+Smoking,20116,Smoking status,"501,586",4,main,,
+,20161,Pack years of smoking,"152,637",4,main,,
+,20162,Pack years adult smoking as proportion of life span exposed to smoking,"152,637",4,Smoking,,
+,1239,Current tobacco smoking,"501,586",4,Smoking,,
+,1249,Past tobacco smoking,"463,704",4,Smoking,,depends on 1249
+,2644,"Light smokers, at least 100 smokes in lifetime","141,777",4,Smoking,,depends on 1239
+,3436,Age started smoking in current smokers,"141,777",4,Smoking,,depends on 1239
+,3446,Type of tobacco currently smoked,"39,518",4,Smoking,,depends on 1239
+,5959,Previously smoked cigarettes on most/all days,"2,673",4,Smoking,,depends on 1239
+,3456,Number of cigarettes currently smoked daily (current cigarette smokers),"36,728",4,Smoking,,depends on 1239
+,6194,Age stopped smoking cigarettes (current cigar/pipe or previous cigarette smoker),"1,813",4,Smoking,,depends on 3446
+,6183,Number of cigarettes previously smoked daily (current cigar/pipe smokers),"1,813",4,Smoking,,depends on 3446
+,3466,Time from waking to first cigarette,"36,384",4,Smoking,,depends on 1239
+,3476,Difficulty not smoking for 1 day,"36,384",4,Smoking,,depends on 1239
+,3486,Ever tried to stop smoking,"39,518",4,Smoking,,depends on 1239
+,3496,Wants to stop smoking,"39,140",4,Smoking,,depends on 1239
+,3506,Smoking compared to 10 years previous,"39,518",4,Smoking,,depends on 1239
+,6158,Why reduced smoking,"17,164",4,Smoking,,depends on 1239
+,2867,Age started smoking in former smokers,"123,477",4,Smoking,,depends on 1249
+,2877,Type of tobacco previously smoked,"123,477",4,Smoking,,depends on 1249
+,2887,Number of cigarettes previously smoked daily,"117,999",4,Smoking,,depends on 1249
+,2897,Age stopped smoking,"123,477",4,Smoking,,depends on 1249
+,2907,Ever stopped smoking for 6+ months,"122,719",4,Smoking,,depends on 1249
+,6157,Why stopped smoking,"122,719",4,Smoking,,depends on 1249
+,2926,Number of unsuccessful stop-smoking attempts,"122,719",4,Smoking,,depends on 1249
+,2936,Likelihood of resuming smoking,"122,719",4,Smoking,,depends on 1249
+,1259,Smoking/smokers in household,"461,173",4,Smoking,,depends on 1239
+,1269,Exposure to tobacco smoke at home,"464,084",4,Smoking,,depends on 1239
+,1279,Exposure to tobacco smoke outside home,"464,084",4,Smoking,,depends on 1239
+Diet,21001,Body mass index (BMI),"499,462",4,main,,
+,1289,Cooked vegetable intake,"501,584",4,Diet,,
+,1299,Salad / raw vegetable intake,"501,584",4,Diet,,
+,1309,Fresh fruit intake,"501,584",4,Diet,,
+,1319,Dried fruit intake,"501,583",4,Diet,,
+,1329,Oily fish intake,"501,583",4,Diet,,
+,1339,Non-oily fish intake,"501,583",4,Diet,,
+,1349,Processed meat intake,"501,582",4,Diet,,
+,1359,Poultry intake,"501,582",4,Diet,,
+,1369,Beef intake,"501,582",4,Diet,,
+,1379,Lamb/mutton intake,"501,582",4,Diet,,
+,1389,Pork intake,"501,580",4,Diet,,
+,3680,Age when last ate meat,"21,186",4,Diet,,
+,6144,"Never eat eggs, dairy, wheat, sugar","498,698",4,Diet,,
+,1408,Cheese intake,"490,243",4,Diet,,
+,1418,Milk type used,"501,511",4,Diet,,
+,1428,Spread type,"498,698",4,Diet,,
+,2654,Non-butter spread type details,"264,427",4,Diet,,
+,1438,Bread intake,"498,698",4,Diet,,
+,1448,Bread type,"483,601",4,Diet,,
+,1458,Cereal intake,"501,480",4,Diet,,
+,1468,Cereal type,"419,169",4,Diet,,
+,1478,Salt added to food,"501,580",4,Diet,,
+,1488,Tea intake,"501,580",4,Diet,,
+,1498,Coffee intake,"501,580",4,Diet,,
+,1508,Coffee type,"391,251",4,Diet,,
+,1518,Hot drink temperature,"501,580",4,Diet,,
+,1528,Water intake,"501,580",4,Diet,,
+,1538,Major dietary changes in the last 5 years,"501,580",4,Diet,,
+,1548,Variation in diet,"498,698",4,Diet,,
+Alcohol,20117,Alcohol drinker status,"501,580",4,main,,
+,1558,Alcohol intake frequency.,"501,580",4,main,,
+,3731,Former alcohol drinker,,,Alcohol,,
+,4407,Average monthly red wine intake,,,Alcohol,,
+,4418,Average monthly champagne plus white wine intake,,,Alcohol,,
+,4429,Average monthly beer plus cider intake,,,Alcohol,,
+,4440,Average monthly spirits intake,,,Alcohol,,
+,4451,Average monthly fortified wine intake,,,Alcohol,,
+,4462,Average monthly intake of other alcoholic drinks,,,Alcohol,,
+,1568,Average weekly red wine intake,,,Alcohol,,
+,1578,Average weekly champagne plus white wine intake,,,Alcohol,,
+,1588,Average weekly beer plus cider intake,,,Alcohol,,
+,1598,Average weekly spirits intake,,,Alcohol,,
+,1608,Average weekly fortified wine intake,,,Alcohol,,
+,5364,Average weekly intake of other alcoholic drinks,,,Alcohol,,
+,1618,Alcohol usually taken with meals,,,Alcohol,,
+,1628,Alcohol intake versus 10 years previously,,,Alcohol,,
+,2664,Reason for reducing amount of alcohol drunk,,,Alcohol,,
+,3859,Reason former drinker stopped drinking alcohol,,,Alcohol,,
+Status,6141,How are people in household related to participant,"409,429",4,main,,
+Ethnic,21000,Ethnic background,"501,568",1,main,,
+,20115,Country of Birth (non-UK origin),"40,564",,,,
+,3659,Year immigrated to UK (United Kingdom),"46,069",3,,,
+,1767,Adopted as a child,,,,,
+Family background,20107,Illnesses of father,"488,051",4,main,,
+,20110,Illnesses of mother,"492,957",4,main,,
+,20111,Illnesses of siblings,"434,150",4,main,,
+,1647,Country of birth (UK/elsewhere),"501,568",3,Family background,,
+,1797,Father still alive,,,Family background,,
+,2946,Father's age,,,Family background,,
+,1807,Father's age at death,,,Family background,,
+,1835,Mother still alive,,,Family background,,
+,1845,Mother's age,,,Family background,,
+,3526,Mother's age at death,,,Family background,,
+,4501,Non-accidental death in close genetic family,,,Family background,,
+Mental,20126,Bipolar and major depression status,,,Mental,,
+,20122,Bipolar disorder status,,,Mental,,
+,20127,Neuroticism score,,,main,,
+,1920,Mood swings,"501,573",4,Mental,,
+,1930,Miserableness,"501,573",4,Mental,,
+,1940,Irritability,,,Mental,,
+,1950,Sensitivity / hurt feelings,,,Mental,,
+,1960,Fed-up feelings,,,Mental,,
+,1970,Nervous feelings,,,Mental,,
+,1980,Worrier / anxious feelings,,,Mental,,
+,1990,Tense / 'highly strung',,,Mental,,
+,2000,Worry too long after embarrassment,,,Mental,,
+,2010,Suffer from 'nerves',,,Mental,,
+,2020,"Loneliness, isolation",,,Mental,,
+,2030,Guilty feelings,,,Mental,,
+,4526,Happiness,,,Mental,,
+,2050,Frequency of depressed mood in last 2 weeks,,,Mental,,
+,2060,Frequency of unenthusiasm / disinterest in last 2 weeks,,,Mental,,
+,2070,Frequency of tenseness / restlessness in last 2 weeks,,,Mental,,
+,2080,Frequency of tiredness / lethargy in last 2 weeks,,,Mental,,
+,2090,"Seen doctor (GP) for nerves, anxiety, tension or depression",,,Mental,,
+,20499,Ever sought or received professional help for mental distress,,,,,
+,20428,Professional informed about anxiety,,,,,
+,20448,Professional informed about depression,,,,,
+,,,,,,,
+,2100,"Seen a psychiatrist for nerves, anxiety, tension or depression",,,Mental,,
+,4598,Ever depressed for a whole week,,,Mental,,
+,4609,Longest period of depression,,,Mental,,
+,4620,Number of depression episodes,,,Mental,,
+,4631,Ever unenthusiastic/disinterested for a whole week,,,Mental,,
+,5375,Longest period of unenthusiasm / disinterest,,,Mental,,
+,5386,Number of unenthusiastic/disinterested episodes,,,Mental,,
+,4642,Ever manic/hyper for 2 days,,,Mental,,
+,4653,Ever highly irritable/argumentative for 2 days,,,Mental,,
+,6156,Manic/hyper symptoms,,,Mental,,
+,5663,Length of longest manic/irritable episode,,,Mental,,
+,5674,Severity of manic/irritable episodes,,,Mental,,
+,6145,"Illness, injury, bereavement, stress in last 2 years",,,Mental,,
+Social activity,1031,Frequency of friend/family visits,,,Mental,,
+,6160,Leisure/social activities,,,,,
+,,,,,,,
+inflammation,6149,Mouth/teeth dental problems,"498,676",,main,,
+"Stroke, heart, high hypertension",6150,Vascular/heart problems diagnosed by doctor,"501,537",,main,,
+high hypertension,2966,Age high blood pressure diagnosed,"140,676",,main,,depends on 6150
+,4079,"Diastolic blood pressure, automated reading","475,160",,blood pressure,,
+,94,"Diastolic blood pressure, manual reading","48,873",,blood pressure,,
+,4080,"Systolic blood pressure, automated reading","475,155",,blood pressure,,
+,93,"Systolic blood pressure, manual reading","48,873",,blood pressure,,
+,3894,Age heart attack diagnosed,"12,230",4,medical history,,
+,3627,Age angina diagnosed,"16,798",4,medical history,,
+,4056,Age stroke diagnosed,"8,224",4,medical history,,
+Diabetes,2443,Diabetes diagnosed by doctor,"501,546",4,main,,
+,2976,Age diabetes diagnosed,"27,011",4,main,,
+,2986,Started insulin within one year diagnosis of diabetes,"27,036",4,medical history,,
+"cholesterol, blood pressure, diabetes",6177,"Medication for cholesterol, blood pressure or diabetes","227,345",4,main,,
+,6153,"Medication for cholesterol, blood pressure, diabetes, or take exogenous hormones","271,306",4,main,,
+,6154,"Medication for pain relief, constipation, heartburn",,,,,
+hearing,2247,Hearing difficulty/problems,"498,676",4,main,,
+,4849,Hearing test done,"213,424",4,hearing,,
+,4232,Triplet correct (left),"206,999",4,hearing,,hearing test
+,4243,Triplet correct (right),"207,089",4,hearing,,hearing test
+cognitive tests,20023,Mean time to correctly identify matches,"496,809",4,cognitive,,reaction time test
+,4281,Completion status of numeric memory test,"83,045",3,cognitive,,numeric memory test
+,4282,Maximum digits remembered correctly,"83,045",3,cognitive,,numeric memory test
+,20016,Fluid intelligence score,"205,331",4,cognitive,,reasoning test
+,6373,Number of puzzles correctly solved,"33,860",2,cognitive,,pattern complitaion test
+,6374,Number of puzzles viewed,"33,860",2,cognitive,,pattern complitaion test
+,6364,Vocabulary level,"33,810",2,cognitive,,vocabulary test
+,23323,Number of symbol digit matches attempted,"33,885",2,cognitive,,symbol digit test
+,23324,Number of symbol digit matches made correctly,"33,885",2,cognitive,,symbol digit test
+,20197,Number of word pairs correctly associated,"34,252",2,cognitive,,association test
+,20018,Prospective memory result,"211,950",4,cognitive,,prospective memoty test
+,4287,Test completion status,"211,950",4,cognitive,,prospective memoty test
+,399,Number of incorrect matches in round,"498,711",4,cognitive,,memory test
+,120042,Cognitive symptoms severity over the past week,,,,,
+Lab,30620,Alanine aminotransferase,"470,616",2,lab,,
+,30600,Albumin,"432,299",2,lab,,
+,30610,Alkaline phosphatase,,,lab,,
+,30630,Apolipoprotein A,,,lab,,
+,30640,Apolipoprotein B,,,lab,,
+,30650,Aspartate aminotransferase,,,lab,,
+,30710,C-reactive protein,"469,815",2,main,,
+,30680,Calcium,,,lab,,
+,30690,Cholesterol,"470,804",2,main,,
+,30700,Creatinine,,,lab,,
+,30720,Cystatin C,,,lab,,
+,30660,Direct bilirubin,,,lab,,
+,30730,Gamma glutamyltransferase,,,lab,,
+,30740,Glucose,,,lab,,
+,30750,Glycated haemoglobin (HbA1c),,,lab,,
+,30760,HDL cholesterol,"432,096",2,main,,
+,30770,IGF-1,,,lab,,
+,30780,LDL direct,"469,966",2,main,,
+,30790,Lipoprotein A,,,lab,,
+,30800,Oestradiol,,,lab,,
+,30810,Phosphate,,,lab,,
+,30820,Rheumatoid factor,,,lab,,
+,30830,SHBG,,,lab,,
+,30850,Testosterone,,,lab,,
+,30840,Total bilirubin,,,lab,,
+,30860,Total protein,,,lab,,
+,30870,Triglycerides,,,lab,,
+,30880,Urate,,,lab,,
+,6149,Mouth/teeth dental problems,"498,716",,lab,,
+,131562,Date K05 first reported (gingivitis and periodontal diseases),"2,164",1,,,
+,30670,Urea,,,lab,,
+,30890,Vitamin D,"449,913",2,main,,
+,,Liver inflammation factor (LIF),,,,,
+,131130,Date H01 first reported (other inflammation of eyelid),,,,,
+,131172,Date H30 first reported (chorioretinal inflammation),,,,,
+,132118,Date N76 first reported (other inflammation of vagina and vulva),,,,,
+,132120,Date N77 first reported (vulvovaginal ulceration and inflammation in diseases classified elsewhere),,,,,
+,131130,Date H01 first reported (other inflammation of eyelid),,,,,
+,23236,Total BMD (bone mineral density),"42,747",2,lab,,
+,20003,Treatment/medication code,"1,394,926",4,,,
+Alzheimer Metadata,130836,Date F00 first reported (dementia in alzheimer's disease),,,,,
+,131036,Date G30 first reported (alzheimer's disease),,,,,
+,42020,Date of alzheimer's disease report,,,,,
+,42021,Source of alzheimer's disease report,,,,,
+,130837,Source of report of F00 (dementia in alzheimer's disease),,,,,
+,131037,Source of report of G30 (alzheimer's disease),,,,,
+FMRI,20227,Functional brain images - resting - NIFTI,,,,,
+,20225,Functional brain images - resting - DICOM,,,,,
+,25739,Discrepancy between rfMRI brain image and T1 brain image,,,,,
+,25750,"rfMRI full correlation matrix, dimension 25",,,,,
+,25752,"rfMRI partial correlation matrix, dimension 25",,,,,
+,25754,"rfMRI component amplitudes, dimension 25",,,,,
+,25751,"rfMRI full correlation matrix, dimension 100",,,,,
+,25753,"rfMRI partial correlation matrix, dimension 100",,,,,
+,25755,"rfMRI component amplitudes, dimension 100",,,,,
+,25741,"Mean rfMRI head motion, averaged across space and time points",,,,,
+,25744,Inverted temporal signal-to-noise ratio in artefact-cleaned pre-processed rfMRI,,,,,
+,25743,Inverted temporal signal-to-noise ratio in pre-processed rfMRI,,,,,
