@@ -1,0 +1,32 @@
+{
+    "VERSION": "multi_effect_score_1.0",
+    "TARGET_VARIANCE": 1,
+    "DISEASE_PREVELANCE": 0.02,
+    "NUMBER_OF_MAJOR_VARIANTS": [
+        5,
+        5,
+        5
+    ],
+    "NUMBER_OF_MEDIUM_VARIANTS": [
+        10,
+        10,
+        10
+    ],
+    "NUMBER_OF_LESSER_VARIANTS": [
+        25,
+        25,
+        25
+    ],
+    "MAJOR_VARIANT_DELTA": 1,
+    "MEDIUM_VARIANT_DELTA": 0.3,
+    "LESSER_VARIANT_DELTA": 0.01,
+    "BINARY_VARIANT": false,
+    "COMMON_VARIANT_THRESHOLD": 0.2,
+    "RARE_VARIANT_TRHESHOLD": 0.05,
+    "VERY_RARE_VARIANT_TRHESHOLD": 0.001,
+    "AC_EFFECT_SCORE": 1,
+    "BATCH_EFFECT_SCORE": 1,
+    "SEX_EFFECT": 3,
+    "YOB_EFFECT": 1,
+    "PC_EFFECT_MAX": 0.3
+}
